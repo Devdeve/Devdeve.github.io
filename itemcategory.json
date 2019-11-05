@@ -1,51 +1,79 @@
 {
-    "1": [
-        {
-            "Mace": ["Club"],
-            "Sword":["Short Sword"],
-            "Bow":["Short Bow"],
-            "Helmet":["Cap"],
-            "Armour":["Quilted Armor"],
-            "Shield":["Buckler"],
-            "Thrown":["Javelin"],
-            "Assassin Katar":["Katar"]
-        }
-    ],
-    "2": [
-        {
-        }
-    ],
-    "3": [
-        {
-            "Axe":["Hand Axe"],
-            "Dagger": ["Dagger"],
-            "Armor":["Leather Armor"]
-        }
-    ],
-    "4":[
-        {
-            "Mace":["Spiked Club"]
-        }
-    ],
-    "5":[
-        {
-            "Sword":["Scimitar"],
-            "Polearm":["Spear","Bardiche"],
-            "Bow":["Hunter's Bow"],
-            "Helmet":["Skull Cap"],
-            "Armour":["Hard Leather Armour"],
-            "Shield":["Small Shield"]
-        }
-    ],
-    "6":[
-        {
-            "Axe":["Large Axe"],
-            "Bow":["Light Crossbow"]
-        }
-    ],
-    "7":[
-        {
-            "Axe":["Axe"]
-        }
-    ]
+    "1": {
+        "Mace": [
+            "Club"
+        ],
+        "Sword": [
+            "Short Sword"
+        ],
+        "Bow": [
+            "Short Bow"
+        ],
+        "Helmet": [
+            "Cap"
+        ],
+        "Armour": [
+            "Quilted Armor"
+        ],
+        "Shield": [
+            "Buckler"
+        ],
+        "Thrown": [
+            "Javelin"
+        ],
+        "Assassin Katar": [
+            "Katar"
+        ]
+    },
+    "2": {},
+    "3": {
+        "Axe": [
+            "Hand Axe"
+        ],
+        "Dagger": [
+            "Dagger"
+        ],
+        "Armor": [
+            "Leather Armor"
+        ]
+    },
+    "4": {
+        "Mace": [
+            "Spiked Club"
+        ]
+    },
+    "5": {
+        "Sword": [
+            "Scimitar"
+        ],
+        "Polearm": [
+            "Spear",
+            "Bardiche"
+        ],
+        "Bow": [
+            "Hunter's Bow"
+        ],
+        "Helmet": [
+            "Skull Cap"
+        ],
+        "Armour": [
+            "Hard Leather Armour"
+        ],
+        "Shield": [
+            "Small Shield"
+        ]
+    },
+    "6": {
+        "Axe": [
+            "Large Axe"
+        ],
+        "Bow": [
+            "Light Crossbow"
+        ]
+    },
+    "7": {
+        "Axe": [
+            "Axe"
+        ]
+    }
 }
