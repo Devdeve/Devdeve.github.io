@@ -1,49 +1,88 @@
-<HMTL>
+<HtmL>
 
-    <HEAD>
-        <TITLE>webpage1</TITLE>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <Script>
-            $(document).ready(function () {
-                $.getJSON("./zonelist.json", function (obj) {
-                    $.each(obj.Zones, function (key, value) {
-                        $("#dropDownZone").append('<option value="' + value.ZoneName + '">' + value.ZoneName + '</option>');
-                    });
+<HEAD>
+    <TITLE>webpage1</TITLE>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <Script>
+        $(document).ready(function () {
+            $.getJSON("./zonelist.json", function (obj) {
+                $.each(obj.Zones, function (key, value) {
+                    $("#dropDownZone").append('<option value="' + value.ZoneName + '">' + value.ZoneName + '</option>');
                 });
             });
-        </Script>
-    </HEAD>
 
-    <BODY BGCOLOR="FFFFFf" LINK="006666" ALINK="8B4513" VLINK="006666">
-        <TABLE WIDTH="75%" ALIGN="center">
-            <TR>
-                <TD>
-                    <DIV ALIGN="center">
-                        <H1>Socket to zone level calculator </H1>
-                    </DIV>
-                    <DIV style="text-align:center">
-                        <P>Please enter your difficulty</p>
-                        <select id="difficulty" style="align-content: center;">
-                            <option id="Normal">Normal</option>
-                            <option id="Nightmare">Nightmare</option>
-                            <option id="Hell">Hell</option>
-                        </select>
-                        <p>Please enter your current zone</p>
-                        <select name="drop_down" id="dropDownZone">
-                            <option value="None" selected="Selected">Select type</option>
-                        </select>
-                        <P>Please select your desired item base</P>
-                        <select name="drop_down" id="dropDownItems">
-                            <option value="None" selected="Selected">Select type</option>
-                            <option value="Shield">Shield</option>
-                            <option value="Sword">Sword</option>
-                            <option value="Axe">Axe</option>
-                            <option value="Helmet">Helmet</option>
-                        </select>
-                    </DIV>
-                </TD>
-            </TR>
-        </TABLE>
-    </BODY>
+        });
+    </Script>
+</HEAD>
 
-    </HTML>
+<BODY BGCOLOR="FFFFFf" LINK="006666" ALINK="8B4513" VLINK="006666">
+    <TABLE WIDTH="75%" ALIGN="center">
+        <TR>
+            <TD>
+                <DIV ALIGN="center">
+                    <H1>Socket to zone level calculator </H1>
+                </DIV>
+                <DIV style="text-align:center">
+                    <P>Please enter your difficulty</p>
+                    <select id="difficulty" style="align-content: center;">
+                        <option id="Normal">Normal</option>
+                        <option id="Nightmare">Nightmare</option>
+                        <option id="Hell">Hell</option>
+                    </select>
+                    <p>Please enter your current zone</p>
+                    <select name="drop_down" id="dropDownZone">
+                        <option value="None" selected="Selected">Select type</option>
+                    </select>
+                    <P>Please select your desired item base</P>
+                    <select name="drop_down" id="dropDownItems">
+                        <option value="None" selected="Selected">Select </option>
+                        <option value="Shield">Shield</option>
+                    </select>
+                    <br>
+                    <button value="Submit" onclick="itemlistcalc()">Submit</button>
+                    <br>
+                    <div id="itemlist" style="white-space: pre-wrap"></div>
+                </DIV>
+            </TD>
+        </TR>
+    </TABLE>
+</BODY>
+<script>
+    function itemlistcalc() {
+        document.getElementById("itemlist").innerHTML = "empty";
+        var zoneLevel = 0
+        var dropDownZoneChoice = document.getElementById('dropDownZone').value;
+        var difficultyChoice = document.getElementById('difficulty').value;
+        var dropDownItemsChoice = document.getElementById('dropDownItems').value;
+        $.getJSON("./zonelist.json", function (obj) {
+            $.each(obj.Zones, function (key, value) {
+                if (value.ZoneName == dropDownZoneChoice) {
+                    if ("Normal" == difficultyChoice) {
+                        zoneLevel = value.Normal;
+                    }
+                    if ("Nightmare" == difficultyChoice) {
+                        zoneLevel = value.Nightmare;
+                    }
+                    if ("Hell" == difficultyChoice) {
+                        zoneLevel = value.Hell;
+                    }
+                }
+            });
+        });
+        document.getElementById("itemlist").innerHTML = "";
+        $.getJSON("./itemcategory.json", function (obj) {
+            $.each(obj, function (key, value) {
+                if (key <= zoneLevel) {
+                    $.each(value, function (key, value) {
+                        if ((key == dropDownItemsChoice)) {
+                            document.getElementById("itemlist").innerHTML += value;
+                            document.getElementById("itemlist").innerHTML += "\n";
+                        }
+                    });
+                }
+            });
+        });
+    }
+</script>
+
+</HTML>
