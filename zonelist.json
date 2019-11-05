@@ -1,950 +1,712 @@
 {
-    "Zone": [
+    "Zones": [
         {
-            "Cold Plains": [
-                {
-                    "Zone": "Cold Plains",
-                    "Normal": 2,
-                    "Nightmare": 36,
-                    "Hell": 68
-                }
-            ],
-            "Stony Field": [
-                {
-                    "Zone": "Stony Field",
-                    "Normal": 4,
-                    "Nightmare": 37,
-                    "Hell": 68
-                }
-            ],
-            "Dark Wood": [
-                {
-                    "Zone": "Dark Wood",
-                    "Normal": 5,
-                    "Nightmare": 38,
-                    "Hell": 68
-                }
-            ],
-            "Black Marsh": [
-                {
-                    "Zone": "Black Marsh",
-                    "Normal": 6,
-                    "Nightmare": 38,
-                    "Hell": 69
-                }
-            ],
-            "Tamoe Highland": [
-                {
-                    "Zone": "Tamoe Highland",
-                    "Normal": 8,
-                    "Nightmare": 39,
-                    "Hell": 69
-                }
-            ],
-            "Den of Evil": [
-                {
-                    "Zone": "Den of Evil",
-                    "Normal": 1,
-                    "Nightmare": 36,
-                    "Hell": 79
-                }
-            ],
-            "The Cave Level 1": [
-                {
-                    "Zone": "The Cave Level 1",
-                    "Normal": 2,
-                    "Nightmare": 36,
-                    "Hell": 77
-                }
-            ],
-            "Underground Passage Level 1": [
-                {
-                    "Zone": "Underground Passage Level 1",
-                    "Normal": 4,
-                    "Nightmare": 37,
-                    "Hell": 69
-                }
-            ],
-            "The Hole Level 1": [
-                {
-                    "Zone": "The Hole Level 1",
-                    "Normal": 5,
-                    "Nightmare": 38,
-                    "Hell": 80
-                }
-            ],
-            "The Pit Level 1": [
-                {
-                    "Zone": "The Pit Level 1",
-                    "Normal": 7,
-                    "Nightmare": 39,
-                    "Hell": 85
-                }
-            ],
-            "The Cave Level 2": [
-                {
-                    "Zone": "The Cave Level 2",
-                    "Normal": 2,
-                    "Nightmare": 37,
-                    "Hell": 78
-                }
-            ],
-            "Underground Passage Level 2": [
-                {
-                    "Zone": "Underground Passage Level 2",
-                    "Normal": 4,
-                    "Nightmare": 38,
-                    "Hell": 83
-                }
-            ],
-            "The Hole Level 2": [
-                {
-                    "Zone": "The Hole Level 2",
-                    "Normal": 5,
-                    "Nightmare": 39,
-                    "Hell": 81
-                }
-            ],
-            "The Pit Level 2": [
-                {
-                    "Zone": "The Pit Level 2",
-                    "Normal": 7,
-                    "Nightmare": 40,
-                    "Hell": 85
-                }
-            ],
-            "Burial Grounds": [
-                {
-                    "Zone": "Burial Grounds",
-                    "Normal": 3,
-                    "Nightmare": 36,
-                    "Hell": 80
-                }
-            ],
-            "Crypt": [
-                {
-                    "Zone": "Crypt",
-                    "Normal": 3,
-                    "Nightmare": 37,
-                    "Hell": 83
-                }
-            ],
-            "Mausoleum": [
-                {
-                    "Zone": "Mausoleum",
-                    "Normal": 3,
-                    "Nightmare": 37,
-                    "Hell": 85
-                }
-            ],
-            "Tower Cellar Level 1": [
-                {
-                    "Zone": "Tower Cellar Level 1",
-                    "Normal": 7,
-                    "Nightmare": 38,
-                    "Hell": 75
-                }
-            ],
-            "Tower Cellar Level 2": [
-                {
-                    "Zone": "Tower Cellar Level 2",
-                    "Normal": 7,
-                    "Nightmare": 39,
-                    "Hell": 76
-                }
-            ],
-            "Tower Cellar Level 3": [
-                {
-                    "Zone": "Tower Cellar Level 3",
-                    "Normal": 7,
-                    "Nightmare": 40,
-                    "Hell": 77
-                }
-            ],
-            "Tower Cellar Level 4": [
-                {
-                    "Zone": "Tower Cellar Level 4",
-                    "Normal": 7,
-                    "Nightmare": 41,
-                    "Hell": 78
-                }
-            ],
-            "Tower Cellar Level 5": [
-                {
-                    "Zone": "Tower Cellar Level 5",
-                    "Normal": 7,
-                    "Nightmare": 42,
-                    "Hell": 79
-                }
-            ],
-            "Monastery Gate": [
-                {
-                    "Zone": "Monastery Gate",
-                    "Normal": 8,
-                    "Nightmare": 40,
-                    "Hell": 70
-                }
-            ],
-            "Outer Cloister": [
-                {
-                    "Zone": "Outer Cloister",
-                    "Normal": 9,
-                    "Nightmare": 40,
-                    "Hell": 70
-                }
-            ],
-            "Barracks": [
-                {
-                    "Zone": "Barracks",
-                    "Normal": 9,
-                    "Nightmare": 40,
-                    "Hell": 70
-                }
-            ],
-            "Jail Level 1": [
-                {
-                    "Zone": "Jail Level 1",
-                    "Normal": 10,
-                    "Nightmare": 41,
-                    "Hell": 71
-                }
-            ],
-            "Jail Level 2": [
-                {
-                    "Zone": "Jail Level 2",
-                    "Normal": 10,
-                    "Nightmare": 41,
-                    "Hell": 71
-                }
-            ],
-            "Jail Level 3": [
-                {
-                    "Zone": "Jail Level 3",
-                    "Normal": 10,
-                    "Nightmare": 41,
-                    "Hell": 71
-                }
-            ],
-            "Inner Cloister": [
-                {
-                    "Zone": "Inner Cloister",
-                    "Normal": 10,
-                    "Nightmare": 41,
-                    "Hell": 72
-                }
-            ],
-            "Cathedral": [
-                {
-                    "Zone": "Cathedral",
-                    "Normal": 11,
-                    "Nightmare": 42,
-                    "Hell": 72
-                }
-            ],
-            "Catacombs Level 1": [
-                {
-                    "Zone": "Catacombs Level 1",
-                    "Normal": 11,
-                    "Nightmare": 42,
-                    "Hell": 72
-                }
-            ],
-            "Catacombs Level 2": [
-                {
-                    "Zone": "Catacombs Level 2",
-                    "Normal": 11,
-                    "Nightmare": 42,
-                    "Hell": 73
-                }
-            ],
-            "Catacombs Level 3": [
-                {
-                    "Zone": "Catacombs Level 3",
-                    "Normal": 12,
-                    "Nightmare": 43,
-                    "Hell": 73
-                }
-            ],
-            "Catacombs Level 4": [
-                {
-                    "Zone": "Catacombs Level 4",
-                    "Normal": 12,
-                    "Nightmare": 43,
-                    "Hell": 73
-                }
-            ],
-            "Tristram": [
-                {
-                    "Zone": "Tristram",
-                    "Normal": 6,
-                    "Nightmare": 39,
-                    "Hell": 76
-                }
-            ],
-            "Secret Cow Level": [
-                {
-                    "Zone": "Secret Cow Level",
-                    "Normal": 28,
-                    "Nightmare": 64,
-                    "Hell": 81
-                }
-            ],
-            "Rocky Waste": [
-                {
-                    "Zone": "Rocky Waste",
-                    "Normal": 14,
-                    "Nightmare": 43,
-                    "Hell": 75
-                }
-            ],
-            "Dry Hills": [
-                {
-                    "Zone": "Dry Hills",
-                    "Normal": 15,
-                    "Nightmare": 44,
-                    "Hell": 76
-                }
-            ],
-            "Far Oasis": [
-                {
-                    "Zone": "Far Oasis",
-                    "Normal": 16,
-                    "Nightmare": 45,
-                    "Hell": 76
-                }
-            ],
-            "Lost City": [
-                {
-                    "Zone": "Lost City",
-                    "Normal": 17,
-                    "Nightmare": 46,
-                    "Hell": 77
-                }
-            ],
-            "Valley of Snakes": [
-                {
-                    "Zone": "Valley of Snakes",
-                    "Normal": 18,
-                    "Nightmare": 46,
-                    "Hell": 77
-                }
-            ],
-            "Canyon of the Magi": [
-                {
-                    "Zone": "Canyon of the Magi",
-                    "Normal": 16,
-                    "Nightmare": 48,
-                    "Hell": 79
-                }
-            ],
-            "Sewers Level 1(Act 2)": [
-                {
-                    "Zone": "Sewers Level 1(Act 2)",
-                    "Normal": 13,
-                    "Nightmare": 43,
-                    "Hell": 74
-                }
-            ],
-            "Sewers Level 2(Act 2)": [
-                {
-                    "Zone": "Sewers Level 2(Act 2)",
-                    "Normal": 13,
-                    "Nightmare": 43,
-                    "Hell": 74
-                }
-            ],
-            "Sewers Level 3(Act 2)": [
-                {
-                    "Zone": "Sewers Level 3(Act 2)",
-                    "Normal": 14,
-                    "Nightmare": 44,
-                    "Hell": 75
-                }
-            ],
-            "Harem Level 2": [
-                {
-                    "Zone": "Harem Level 2",
-                    "Normal": 13,
-                    "Nightmare": 47,
-                    "Hell": 78
-                }
-            ],
-            "Palace Cellar Level 1": [
-                {
-                    "Zone": "Palace Cellar Level 1",
-                    "Normal": 13,
-                    "Nightmare": 47,
-                    "Hell": 78
-                }
-            ],
-            "Palace Cellar Level 2": [
-                {
-                    "Zone": "Palace Cellar Level 2",
-                    "Normal": 13,
-                    "Nightmare": 47,
-                    "Hell": 78
-                }
-            ],
-            "Palace Cellar Level 3": [
-                {
-                    "Zone": "Palace Cellar Level 3",
-                    "Normal": 13,
-                    "Nightmare": 48,
-                    "Hell": 78
-                }
-            ],
-            "Stony Tomb Level 1": [
-                {
-                    "Zone": "Stony Tomb Level 1",
-                    "Normal": 12,
-                    "Nightmare": 44,
-                    "Hell": 78
-                }
-            ],
-            "Halls of the Dead Level 1": [
-                {
-                    "Zone": "Halls of the Dead Level 1",
-                    "Normal": 12,
-                    "Nightmare": 44,
-                    "Hell": 79
-                }
-            ],
-            "Halls of the Dead Level 2": [
-                {
-                    "Zone": "Halls of the Dead Level 2",
-                    "Normal": 13,
-                    "Nightmare": 45,
-                    "Hell": 81
-                }
-            ],
-            "Claw Viper Temple Level 1": [
-                {
-                    "Zone": "Claw Viper Temple Level 1",
-                    "Normal": 14,
-                    "Nightmare": 47,
-                    "Hell": 82
-                }
-            ],
-            "Stony Tomb Level 2": [
-                {
-                    "Zone": "Stony Tomb Level 2",
-                    "Normal": 12,
-                    "Nightmare": 44,
-                    "Hell": 79
-                }
-            ],
-            "Halls of the Dead Level 3": [
-                {
-                    "Zone": "Halls of the Dead Level 3",
-                    "Normal": 13,
-                    "Nightmare": 45,
-                    "Hell": 82
-                }
-            ],
-            "Claw Viper Temple Level 2": [
-                {
-                    "Zone": "Claw Viper Temple Level 2",
-                    "Normal": 14,
-                    "Nightmare": 47,
-                    "Hell": 83
-                }
-            ],
-            "Maggot Lair Level 1": [
-                {
-                    "Zone": "Maggot Lair Level 1",
-                    "Normal": 17,
-                    "Nightmare": 45,
-                    "Hell": 84
-                }
-            ],
-            "Maggot Lair Level 2": [
-                {
-                    "Zone": "Maggot Lair Level 2",
-                    "Normal": 17,
-                    "Nightmare": 45,
-                    "Hell": 84
-                }
-            ],
-            "Maggot Lair Level 3": [
-                {
-                    "Zone": "Maggot Lair Level 3",
-                    "Normal": 17,
-                    "Nightmare": 46,
-                    "Hell": 85
-                }
-            ],
-            "Ancient Tunnels": [
-                {
-                    "Zone": "Ancient Tunnels",
-                    "Normal": 17,
-                    "Nightmare": 46,
-                    "Hell": 85
-                }
-            ],
-            "Tal Rasha's Tomb": [
-                {
-                    "Zone": "Tal Rasha's Tomb",
-                    "Normal": 17,
-                    "Nightmare": 49,
-                    "Hell": 80
-                }
-            ],
-            "Tal Rasha's Chamber": [
-                {
-                    "Zone": "Tal Rasha's Chamber",
-                    "Normal": 17,
-                    "Nightmare": 49,
-                    "Hell": 80
-                }
-            ],
-            "Arcane Sanctuary": [
-                {
-                    "Zone": "Arcane Sanctuary",
-                    "Normal": 14,
-                    "Nightmare": 48,
-                    "Hell": 79
-                }
-            ],
-            "Spider Forest": [
-                {
-                    "Zone": "Spider Forest",
-                    "Normal": 21,
-                    "Nightmare": 49,
-                    "Hell": 79
-                }
-            ],
-            "Great Marsh": [
-                {
-                    "Zone": "Great Marsh",
-                    "Normal": 21,
-                    "Nightmare": 50,
-                    "Hell": 80
-                }
-            ],
-            "Flayer Jungle": [
-                {
-                    "Zone": "Flayer Jungle",
-                    "Normal": 22,
-                    "Nightmare": 50,
-                    "Hell": 80
-                }
-            ],
-            "Lower Kurast": [
-                {
-                    "Zone": "Lower Kurast",
-                    "Normal": 22,
-                    "Nightmare": 52,
-                    "Hell": 80
-                }
-            ],
-            "Kurast Bazaar": [
-                {
-                    "Zone": "Kurast Bazaar",
-                    "Normal": 22,
-                    "Nightmare": 52,
-                    "Hell": 81
-                }
-            ],
-            "Upper Kurast": [
-                {
-                    "Zone": "Upper Kurast",
-                    "Normal": 23,
-                    "Nightmare": 52,
-                    "Hell": 81
-                }
-            ],
-            "Kurast Causeway": [
-                {
-                    "Zone": "Kurast Causeway",
-                    "Normal": 24,
-                    "Nightmare": 53,
-                    "Hell": 81
-                }
-            ],
-            "Travincal": [
-                {
-                    "Zone": "Travincal",
-                    "Normal": 24,
-                    "Nightmare": 54,
-                    "Hell": 82
-                }
-            ],
-            "Spider Cave (Arachnid Lair)": [
-                {
-                    "Zone": "Spider Cave (Arachnid Lair)",
-                    "Normal": 21,
-                    "Nightmare": 50,
-                    "Hell": 79
-                }
-            ],
-            "Spider Cavern": [
-                {
-                    "Zone": "Spider Cavern",
-                    "Normal": 21,
-                    "Nightmare": 50,
-                    "Hell": 79
-                }
-            ],
-            "Swampy Pit Level 1": [
-                {
-                    "Zone": "Swampy Pit Level 1",
-                    "Normal": 21,
-                    "Nightmare": 51,
-                    "Hell": 80
-                }
-            ],
-            "Swampy Pit Level 2": [
-                {
-                    "Zone": "Swampy Pit Level 2",
-                    "Normal": 21,
-                    "Nightmare": 51,
-                    "Hell": 81
-                }
-            ],
-            "Flayer Dungeon Level 1": [
-                {
-                    "Zone": "Flayer Dungeon Level 1",
-                    "Normal": 22,
-                    "Nightmare": 51,
-                    "Hell": 81
-                }
-            ],
-            "Flayer Dungeon Level 2": [
-                {
-                    "Zone": "Flayer Dungeon Level 2",
-                    "Normal": 22,
-                    "Nightmare": 51,
-                    "Hell": 82
-                }
-            ],
-            "Swampy Pit Level 3": [
-                {
-                    "Zone": "Swampy Pit Level 3",
-                    "Normal": 21,
-                    "Nightmare": 51,
-                    "Hell": 82
-                }
-            ],
-            "Flayer Dungeon Level 3": [
-                {
-                    "Zone": "Flayer Dungeon Level 3",
-                    "Normal": 22,
-                    "Nightmare": 51,
-                    "Hell": 83
-                }
-            ],
-            "Sewers Level 1(Act 3)": [
-                {
-                    "Zone": "Sewers Level 1(Act 3)",
-                    "Normal": 23,
-                    "Nightmare": 52,
-                    "Hell": 84
-                }
-            ],
-            "Sewers Level 2(Act 3)": [
-                {
-                    "Zone": "Sewers Level 2(Act 3)",
-                    "Normal": 24,
-                    "Nightmare": 53,
-                    "Hell": 85
-                }
-            ],
-            "Ruined Temple (In Kurast Bazaar)": [
-                {
-                    "Zone": "Ruined Temple (In Kurast Bazaar)",
-                    "Normal": 23,
-                    "Nightmare": 53,
-                    "Hell": 84
-                }
-            ],
-            "Disused Fane (In Kurast Bazaar)": [
-                {
-                    "Zone": "Disused Fane (In Kurast Bazaar)",
-                    "Normal": 23,
-                    "Nightmare": 53,
-                    "Hell": 84
-                }
-            ],
-            "Forgotten Reliquary (In Upper Kurast)": [
-                {
-                    "Zone": "Forgotten Reliquary (In Upper Kurast)",
-                    "Normal": 23,
-                    "Nightmare": 53,
-                    "Hell": 84
-                }
-            ],
-            "Forgotten Temple (In Upper Kurast)": [
-                {
-                    "Zone": "Forgotten Temple (In Upper Kurast)",
-                    "Normal": 24,
-                    "Nightmare": 54,
-                    "Hell": 85
-                }
-            ],
-            "Ruined Fane (In Kurast Causeway)": [
-                {
-                    "Zone": "Ruined Fane (In Kurast Causeway)",
-                    "Normal": 24,
-                    "Nightmare": 54,
-                    "Hell": 85
-                }
-            ],
-            "Disused Reliquary (In Kurast Causeway)": [
-                {
-                    "Zone": "Disused Reliquary (In Kurast Causeway)",
-                    "Normal": 24,
-                    "Nightmare": 54,
-                    "Hell": 85
-                }
-            ],
-            "Durance of Hate Level 1": [
-                {
-                    "Zone": "Durance of Hate Level 1",
-                    "Normal": 25,
-                    "Nightmare": 55,
-                    "Hell": 83
-                }
-            ],
-            "Durance of Hate Level 2": [
-                {
-                    "Zone": "Durance of Hate Level 2",
-                    "Normal": 25,
-                    "Nightmare": 55,
-                    "Hell": 83
-                }
-            ],
-            "Durance of Hate Level 3": [
-                {
-                    "Zone": "Durance of Hate Level 3",
-                    "Normal": 25,
-                    "Nightmare": 55,
-                    "Hell": 83
-                }
-            ],
-            "Outer Steppes": [
-                {
-                    "Zone": "Outer Steppes",
-                    "Normal": 26,
-                    "Nightmare": 56,
-                    "Hell": 82
-                }
-            ],
-            "Plains of Despair": [
-                {
-                    "Zone": "Plains of Despair",
-                    "Normal": 26,
-                    "Nightmare": 56,
-                    "Hell": 83
-                }
-            ],
-            "City of the Damned": [
-                {
-                    "Zone": "City of the Damned",
-                    "Normal": 27,
-                    "Nightmare": 57,
-                    "Hell": 84
-                }
-            ],
-            "River of Flame": [
-                {
-                    "Zone": "River of Flame",
-                    "Normal": 27,
-                    "Nightmare": 57,
-                    "Hell": 85
-                }
-            ],
-            "Chaos Sanctuary": [
-                {
-                    "Zone": "Chaos Sanctuary",
-                    "Normal": 28,
-                    "Nightmare": 58,
-                    "Hell": 85
-                }
-            ],
-            "Bloody Foothills": [
-                {
-                    "Zone": "Bloody Foothills",
-                    "Normal": 24,
-                    "Nightmare": 58,
-                    "Hell": 80
-                }
-            ],
-            "Frigid Highlands": [
-                {
-                    "Zone": "Frigid Highlands",
-                    "Normal": 25,
-                    "Nightmare": 59,
-                    "Hell": 81
-                }
-            ],
-            "Arreat Plateau": [
-                {
-                    "Zone": "Arreat Plateau",
-                    "Normal": 26,
-                    "Nightmare": 60,
-                    "Hell": 81
-                }
-            ],
-            "Crystalized Cavern Level 1 (Crystalline Passage)": [
-                {
-                    "Zone": "Crystalized Cavern Level 1 (Crystalline Passage)",
-                    "Normal": 29,
-                    "Nightmare": 61,
-                    "Hell": 82
-                }
-            ],
-            "Cellar of Pity (Frozen River)": [
-                {
-                    "Zone": "Cellar of Pity (Frozen River)",
-                    "Normal": 29,
-                    "Nightmare": 61,
-                    "Hell": 83
-                }
-            ],
-            "Crystalized Cavern Level 2 (Glacial Trail)": [
-                {
-                    "Zone": "Crystalized Cavern Level 2 (Glacial Trail)",
-                    "Normal": 29,
-                    "Nightmare": 61,
-                    "Hell": 83
-                }
-            ],
-            "Echo Chamber (Drifter Cavern)": [
-                {
-                    "Zone": "Echo Chamber (Drifter Cavern)",
-                    "Normal": 29,
-                    "Nightmare": 61,
-                    "Hell": 84
-                }
-            ],
-            "Tundra Wastelands (Frozen Tundra)": [
-                {
-                    "Zone": "Tundra Wastelands (Frozen Tundra)",
-                    "Normal": 27,
-                    "Nightmare": 60,
-                    "Hell": 81
-                }
-            ],
-            "Glacial Caves Level 1 (Ancients' Way)": [
-                {
-                    "Zone": "Glacial Caves Level 1 (Ancients' Way)",
-                    "Normal": 29,
-                    "Nightmare": 62,
-                    "Hell": 82
-                }
-            ],
-            "Glacial Caves Level 2 (Icy Cellar)": [
-                {
-                    "Zone": "Glacial Caves Level 2 (Icy Cellar)",
-                    "Normal": 29,
-                    "Nightmare": 62,
-                    "Hell": 83
-                }
-            ],
-            "Rocky Summit (Arreat Summit)": [
-                {
-                    "Zone": "Rocky Summit (Arreat Summit)",
-                    "Normal": 37,
-                    "Nightmare": 68,
-                    "Hell": 87
-                }
-            ],
-            "Nihlathak's Temple": [
-                {
-                    "Zone": "Nihlathak's Temple",
-                    "Normal": 32,
-                    "Nightmare": 63,
-                    "Hell": 83
-                }
-            ],
-            "Halls of Anguish": [
-                {
-                    "Zone": "Halls of Anguish",
-                    "Normal": 33,
-                    "Nightmare": 63,
-                    "Hell": 83
-                }
-            ],
-            "Halls of Death's Calling (Halls of Pain)": [
-                {
-                    "Zone": "Halls of Death's Calling (Halls of Pain)",
-                    "Normal": 34,
-                    "Nightmare": 64,
-                    "Hell": 84
-                }
-            ],
-            "Halls of Vaught": [
-                {
-                    "Zone": "Halls of Vaught",
-                    "Normal": 36,
-                    "Nightmare": 64,
-                    "Hell": 84
-                }
-            ],
-            "Hell 1 (Abaddon)": [
-                {
-                    "Zone": "Hell 1 (Abaddon)",
-                    "Normal": 39,
-                    "Nightmare": 60,
-                    "Hell": 81
-                }
-            ],
-            "Hell 2 (Pit of Acheron)": [
-                {
-                    "Zone": "Hell 2 (Pit of Acheron)",
-                    "Normal": 39,
-                    "Nightmare": 61,
-                    "Hell": 82
-                }
-            ],
-            "Hell 3 (Infernal Pit)": [
-                {
-                    "Zone": "Hell 3 (Infernal Pit)",
-                    "Normal": 39,
-                    "Nightmare": 62,
-                    "Hell": 83
-                }
-            ],
-            "The Worldstone Keep Level 1": [
-                {
-                    "Zone": "The Worldstone Keep Level 1",
-                    "Normal": 39,
-                    "Nightmare": 65,
-                    "Hell": 85
-                }
-            ],
-            "The Worldstone Keep Level 2": [
-                {
-                    "Zone": "The Worldstone Keep Level 2",
-                    "Normal": 40,
-                    "Nightmare": 65,
-                    "Hell": 85
-                }
-            ],
-            "The Worldstone Keep Level 3": [
-                {
-                    "Zone": "The Worldstone Keep Level 3",
-                    "Normal": 42,
-                    "Nightmare": 66,
-                    "Hell": 85
-                }
-            ],
-            "Throne of Destruction": [
-                {
-                    "Zone": "Throne of Destruction",
-                    "Normal": 43,
-                    "Nightmare": 66,
-                    "Hell": 85
-                }
-            ],
-            "Worldstone Chamber": [
-                {
-                    "Zone": "Worldstone Chamber",
-                    "Normal": 43,
-                    "Nightmare": 66,
-                    "Hell": 85
-                }
-            ]
+            "ZoneName": "Cold Plains",
+            "Normal": 2,
+            "Nightmare": 36,
+            "Hell": 68
+        },
+        {
+            "ZoneName": "Stony Field",
+            "Normal": 4,
+            "Nightmare": 37,
+            "Hell": 68
+        },
+        {
+            "ZoneName": "Dark Wood",
+            "Normal": 5,
+            "Nightmare": 38,
+            "Hell": 68
+        },
+        {
+            "ZoneName": "Black Marsh",
+            "Normal": 6,
+            "Nightmare": 38,
+            "Hell": 69
+        },
+        {
+            "ZoneName": "Tamoe Highland",
+            "Normal": 8,
+            "Nightmare": 39,
+            "Hell": 69
+        },
+        {
+            "ZoneName": "Den of Evil",
+            "Normal": 1,
+            "Nightmare": 36,
+            "Hell": 79
+        },
+        {
+            "ZoneName": "The Cave Level 1",
+            "Normal": 2,
+            "Nightmare": 36,
+            "Hell": 77
+        },
+        {
+            "ZoneName": "Underground Passage Level 1",
+            "Normal": 4,
+            "Nightmare": 37,
+            "Hell": 69
+        },
+        {
+            "ZoneName": "The Hole Level 1",
+            "Normal": 5,
+            "Nightmare": 38,
+            "Hell": 80
+        },
+        {
+            "ZoneName": "The Pit Level 1",
+            "Normal": 7,
+            "Nightmare": 39,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "The Cave Level 2",
+            "Normal": 2,
+            "Nightmare": 37,
+            "Hell": 78
+        },
+        {
+            "ZoneName": "Underground Passage Level 2",
+            "Normal": 4,
+            "Nightmare": 38,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "The Hole Level 2",
+            "Normal": 5,
+            "Nightmare": 39,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "The Pit Level 2",
+            "Normal": 7,
+            "Nightmare": 40,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Burial Grounds",
+            "Normal": 3,
+            "Nightmare": 36,
+            "Hell": 80
+        },
+        {
+            "ZoneName": "Crypt",
+            "Normal": 3,
+            "Nightmare": 37,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "Mausoleum",
+            "Normal": 3,
+            "Nightmare": 37,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Tower Cellar Level 1",
+            "Normal": 7,
+            "Nightmare": 38,
+            "Hell": 75
+        },
+        {
+            "ZoneName": "Tower Cellar Level 2",
+            "Normal": 7,
+            "Nightmare": 39,
+            "Hell": 76
+        },
+        {
+            "ZoneName": "Tower Cellar Level 3",
+            "Normal": 7,
+            "Nightmare": 40,
+            "Hell": 77
+        },
+        {
+            "ZoneName": "Tower Cellar Level 4",
+            "Normal": 7,
+            "Nightmare": 41,
+            "Hell": 78
+        },
+        {
+            "ZoneName": "Tower Cellar Level 5",
+            "Normal": 7,
+            "Nightmare": 42,
+            "Hell": 79
+        },
+        {
+            "ZoneName": "Monastery Gate",
+            "Normal": 8,
+            "Nightmare": 40,
+            "Hell": 70
+        },
+        {
+            "ZoneName": "Outer Cloister",
+            "Normal": 9,
+            "Nightmare": 40,
+            "Hell": 70
+        },
+        {
+            "ZoneName": "Barracks",
+            "Normal": 9,
+            "Nightmare": 40,
+            "Hell": 70
+        },
+        {
+            "ZoneName": "Jail Level 1",
+            "Normal": 10,
+            "Nightmare": 41,
+            "Hell": 71
+        },
+        {
+            "ZoneName": "Jail Level 2",
+            "Normal": 10,
+            "Nightmare": 41,
+            "Hell": 71
+        },
+        {
+            "ZoneName": "Jail Level 3",
+            "Normal": 10,
+            "Nightmare": 41,
+            "Hell": 71
+        },
+        {
+            "ZoneName": "Inner Cloister",
+            "Normal": 10,
+            "Nightmare": 41,
+            "Hell": 72
+        },
+        {
+            "ZoneName": "Cathedral",
+            "Normal": 11,
+            "Nightmare": 42,
+            "Hell": 72
+        },
+        {
+            "ZoneName": "Catacombs Level 1",
+            "Normal": 11,
+            "Nightmare": 42,
+            "Hell": 72
+        },
+        {
+            "ZoneName": "Catacombs Level 2",
+            "Normal": 11,
+            "Nightmare": 42,
+            "Hell": 73
+        },
+        {
+            "ZoneName": "Catacombs Level 3",
+            "Normal": 12,
+            "Nightmare": 43,
+            "Hell": 73
+        },
+        {
+            "ZoneName": "Catacombs Level 4",
+            "Normal": 12,
+            "Nightmare": 43,
+            "Hell": 73
+        },
+        {
+            "ZoneName": "Tristram",
+            "Normal": 6,
+            "Nightmare": 39,
+            "Hell": 76
+        },
+        {
+            "ZoneName": "Secret Cow Level",
+            "Normal": 28,
+            "Nightmare": 64,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "Rocky Waste",
+            "Normal": 14,
+            "Nightmare": 43,
+            "Hell": 75
+        },
+        {
+            "ZoneName": "Dry Hills",
+            "Normal": 15,
+            "Nightmare": 44,
+            "Hell": 76
+        },
+        {
+            "ZoneName": "Far Oasis",
+            "Normal": 16,
+            "Nightmare": 45,
+            "Hell": 76
+        },
+        {
+            "ZoneName": "Lost City",
+            "Normal": 17,
+            "Nightmare": 46,
+            "Hell": 77
+        },
+        {
+            "ZoneName": "Valley of Snakes",
+            "Normal": 18,
+            "Nightmare": 46,
+            "Hell": 77
+        },
+        {
+            "ZoneName": "Canyon of the Magi",
+            "Normal": 16,
+            "Nightmare": 48,
+            "Hell": 79
+        },
+        {
+            "ZoneName": "Sewers Level 1",
+            "Normal": 13,
+            "Nightmare": 43,
+            "Hell": 74
+        },
+        {
+            "ZoneName": "Sewers Level 2",
+            "Normal": 13,
+            "Nightmare": 43,
+            "Hell": 74
+        },
+        {
+            "ZoneName": "Sewers Level 3",
+            "Normal": 14,
+            "Nightmare": 44,
+            "Hell": 75
+        },
+        {
+            "ZoneName": "Harem Level 2",
+            "Normal": 13,
+            "Nightmare": 47,
+            "Hell": 78
+        },
+        {
+            "ZoneName": "Palace Cellar Level 1",
+            "Normal": 13,
+            "Nightmare": 47,
+            "Hell": 78
+        },
+        {
+            "ZoneName": "Palace Cellar Level 2",
+            "Normal": 13,
+            "Nightmare": 47,
+            "Hell": 78
+        },
+        {
+            "ZoneName": "Palace Cellar Level 3",
+            "Normal": 13,
+            "Nightmare": 48,
+            "Hell": 78
+        },
+        {
+            "ZoneName": "Stony Tomb Level 1",
+            "Normal": 12,
+            "Nightmare": 44,
+            "Hell": 78
+        },
+        {
+            "ZoneName": "Halls of the Dead Level 1",
+            "Normal": 12,
+            "Nightmare": 44,
+            "Hell": 79
+        },
+        {
+            "ZoneName": "Halls of the Dead Level 2",
+            "Normal": 13,
+            "Nightmare": 45,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "Claw Viper Temple Level 1",
+            "Normal": 14,
+            "Nightmare": 47,
+            "Hell": 82
+        },
+        {
+            "ZoneName": "Stony Tomb Level 2",
+            "Normal": 12,
+            "Nightmare": 44,
+            "Hell": 79
+        },
+        {
+            "ZoneName": "Halls of the Dead Level 3",
+            "Normal": 13,
+            "Nightmare": 45,
+            "Hell": 82
+        },
+        {
+            "ZoneName": "Claw Viper Temple Level 2",
+            "Normal": 14,
+            "Nightmare": 47,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "Maggot Lair Level 1",
+            "Normal": 17,
+            "Nightmare": 45,
+            "Hell": 84
+        },
+        {
+            "ZoneName": "Maggot Lair Level 2",
+            "Normal": 17,
+            "Nightmare": 45,
+            "Hell": 84
+        },
+        {
+            "ZoneName": "Maggot Lair Level 3",
+            "Normal": 17,
+            "Nightmare": 46,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Ancient Tunnels",
+            "Normal": 17,
+            "Nightmare": 46,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Tal Rasha's Tomb",
+            "Normal": 17,
+            "Nightmare": 49,
+            "Hell": 80
+        },
+        {
+            "ZoneName": "Tal Rasha's Chamber",
+            "Normal": 17,
+            "Nightmare": 49,
+            "Hell": 80
+        },
+        {
+            "ZoneName": "Arcane Sanctuary",
+            "Normal": 14,
+            "Nightmare": 48,
+            "Hell": 79
+        },
+        {
+            "ZoneName": "Spider Forest",
+            "Normal": 21,
+            "Nightmare": 49,
+            "Hell": 79
+        },
+        {
+            "ZoneName": "Great Marsh",
+            "Normal": 21,
+            "Nightmare": 50,
+            "Hell": 80
+        },
+        {
+            "ZoneName": "Flayer Jungle",
+            "Normal": 22,
+            "Nightmare": 50,
+            "Hell": 80
+        },
+        {
+            "ZoneName": "Lower Kurast",
+            "Normal": 22,
+            "Nightmare": 52,
+            "Hell": 80
+        },
+        {
+            "ZoneName": "Kurast Bazaar",
+            "Normal": 22,
+            "Nightmare": 52,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "Upper Kurast",
+            "Normal": 23,
+            "Nightmare": 52,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "Kurast Causeway",
+            "Normal": 24,
+            "Nightmare": 53,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "Travincal",
+            "Normal": 24,
+            "Nightmare": 54,
+            "Hell": 82
+        },
+        {
+            "ZoneName": "Spider Cave (Arachnid Lair)",
+            "Normal": 21,
+            "Nightmare": 50,
+            "Hell": 79
+        },
+        {
+            "ZoneName": "Spider Cavern",
+            "Normal": 21,
+            "Nightmare": 50,
+            "Hell": 79
+        },
+        {
+            "ZoneName": "Swampy Pit Level 1",
+            "Normal": 21,
+            "Nightmare": 51,
+            "Hell": 80
+        },
+        {
+            "ZoneName": "Swampy Pit Level 2",
+            "Normal": 21,
+            "Nightmare": 51,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "Flayer Dungeon Level 1",
+            "Normal": 22,
+            "Nightmare": 51,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "Flayer Dungeon Level 2",
+            "Normal": 22,
+            "Nightmare": 51,
+            "Hell": 82
+        },
+        {
+            "ZoneName": "Swampy Pit Level 3",
+            "Normal": 21,
+            "Nightmare": 51,
+            "Hell": 82
+        },
+        {
+            "ZoneName": "Flayer Dungeon Level 3",
+            "Normal": 22,
+            "Nightmare": 51,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "Sewers Level 1",
+            "Normal": 23,
+            "Nightmare": 52,
+            "Hell": 84
+        },
+        {
+            "ZoneName": "Sewers Level 2",
+            "Normal": 24,
+            "Nightmare": 53,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Ruined Temple (In Kurast Bazaar)",
+            "Normal": 23,
+            "Nightmare": 53,
+            "Hell": 84
+        },
+        {
+            "ZoneName": "Disused Fane (In Kurast Bazaar)",
+            "Normal": 23,
+            "Nightmare": 53,
+            "Hell": 84
+        },
+        {
+            "ZoneName": "Forgotten Reliquary (In Upper Kurast)",
+            "Normal": 23,
+            "Nightmare": 53,
+            "Hell": 84
+        },
+        {
+            "ZoneName": "Forgotten Temple (In Upper Kurast)",
+            "Normal": 24,
+            "Nightmare": 54,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Ruined Fane (In Kurast Causeway)",
+            "Normal": 24,
+            "Nightmare": 54,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Disused Reliquary (In Kurast Causeway)",
+            "Normal": 24,
+            "Nightmare": 54,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Durance of Hate Level 1",
+            "Normal": 25,
+            "Nightmare": 55,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "Durance of Hate Level 2",
+            "Normal": 25,
+            "Nightmare": 55,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "Durance of Hate Level 3",
+            "Normal": 25,
+            "Nightmare": 55,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "Outer Steppes",
+            "Normal": 26,
+            "Nightmare": 56,
+            "Hell": 82
+        },
+        {
+            "ZoneName": "Plains of Despair",
+            "Normal": 26,
+            "Nightmare": 56,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "City of the Damned",
+            "Normal": 27,
+            "Nightmare": 57,
+            "Hell": 84
+        },
+        {
+            "ZoneName": "River of Flame",
+            "Normal": 27,
+            "Nightmare": 57,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Chaos Sanctuary",
+            "Normal": 28,
+            "Nightmare": 58,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Bloody Foothills",
+            "Normal": 24,
+            "Nightmare": 58,
+            "Hell": 80
+        },
+        {
+            "ZoneName": "Frigid Highlands",
+            "Normal": 25,
+            "Nightmare": 59,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "Arreat Plateau",
+            "Normal": 26,
+            "Nightmare": 60,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "Crystalized Cavern Level 1 (Crystalline Passage)",
+            "Normal": 29,
+            "Nightmare": 61,
+            "Hell": 82
+        },
+        {
+            "ZoneName": "Cellar of Pity (Frozen River)",
+            "Normal": 29,
+            "Nightmare": 61,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "Crystalized Cavern Level 2 (Glacial Trail)",
+            "Normal": 29,
+            "Nightmare": 61,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "Echo Chamber (Drifter Cavern)",
+            "Normal": 29,
+            "Nightmare": 61,
+            "Hell": 84
+        },
+        {
+            "ZoneName": "Tundra Wastelands (Frozen Tundra)",
+            "Normal": 27,
+            "Nightmare": 60,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "Glacial Caves Level 1 (Ancients' Way)",
+            "Normal": 29,
+            "Nightmare": 62,
+            "Hell": 82
+        },
+        {
+            "ZoneName": "Glacial Caves Level 2 (Icy Cellar)",
+            "Normal": 29,
+            "Nightmare": 62,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "Rocky Summit (Arreat Summit)",
+            "Normal": 37,
+            "Nightmare": 68,
+            "Hell": 87
+        },
+        {
+            "ZoneName": "Nihlathak's Temple",
+            "Normal": 32,
+            "Nightmare": 63,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "Halls of Anguish",
+            "Normal": 33,
+            "Nightmare": 63,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "Halls of Death's Calling (Halls of Pain)",
+            "Normal": 34,
+            "Nightmare": 64,
+            "Hell": 84
+        },
+        {
+            "ZoneName": "Halls of Vaught",
+            "Normal": 36,
+            "Nightmare": 64,
+            "Hell": 84
+        },
+        {
+            "ZoneName": "Hell 1 (Abaddon)",
+            "Normal": 39,
+            "Nightmare": 60,
+            "Hell": 81
+        },
+        {
+            "ZoneName": "Hell 2 (Pit of Acheron)",
+            "Normal": 39,
+            "Nightmare": 61,
+            "Hell": 82
+        },
+        {
+            "ZoneName": "Hell 3 (Infernal Pit)",
+            "Normal": 39,
+            "Nightmare": 62,
+            "Hell": 83
+        },
+        {
+            "ZoneName": "The Worldstone Keep Level 1",
+            "Normal": 39,
+            "Nightmare": 65,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "The Worldstone Keep Level 2",
+            "Normal": 40,
+            "Nightmare": 65,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "The Worldstone Keep Level 3",
+            "Normal": 42,
+            "Nightmare": 66,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Throne of Destruction",
+            "Normal": 43,
+            "Nightmare": 66,
+            "Hell": 85
+        },
+        {
+            "ZoneName": "Worldstone Chamber",
+            "Normal": 43,
+            "Nightmare": 66,
+            "Hell": 85
         }
     ]
 }
