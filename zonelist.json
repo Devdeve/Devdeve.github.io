@@ -1,0 +1,832 @@
+{
+    "Zones": [
+        {
+            "Cold Plains": [
+                {
+                    "Normal": 2,
+                    "Nightmare": 36,
+                    "Hell": 68
+                }
+            ],
+            "Stony Field": [
+                {
+                    "Normal": 4,
+                    "Nightmare": 37,
+                    "Hell": 68
+                }
+            ],
+            "Dark Wood": [
+                {
+                    "Normal": 5,
+                    "Nightmare": 38,
+                    "Hell": 68
+                }
+            ],
+            "Black Marsh": [
+                {
+                    "Normal": 6,
+                    "Nightmare": 38,
+                    "Hell": 69
+                }
+            ],
+            "Tamoe Highland": [
+                {
+                    "Normal": 8,
+                    "Nightmare": 39,
+                    "Hell": 69
+                }
+            ],
+            "Den of Evil": [
+                {
+                    "Normal": 1,
+                    "Nightmare": 36,
+                    "Hell": 79
+                }
+            ],
+            "The Cave Level 1": [
+                {
+                    "Normal": 2,
+                    "Nightmare": 36,
+                    "Hell": 77
+                }
+            ],
+            "Underground Passage Level 1": [
+                {
+                    "Normal": 4,
+                    "Nightmare": 37,
+                    "Hell": 69
+                }
+            ],
+            "The Hole Level 1": [
+                {
+                    "Normal": 5,
+                    "Nightmare": 38,
+                    "Hell": 80
+                }
+            ],
+            "The Pit Level 1": [
+                {
+                    "Normal": 7,
+                    "Nightmare": 39,
+                    "Hell": 85
+                }
+            ],
+            "The Cave Level 2": [
+                {
+                    "Normal": 2,
+                    "Nightmare": 37,
+                    "Hell": 78
+                }
+            ],
+            "Underground Passage Level 2": [
+                {
+                    "Normal": 4,
+                    "Nightmare": 38,
+                    "Hell": 83
+                }
+            ],
+            "The Hole Level 2": [
+                {
+                    "Normal": 5,
+                    "Nightmare": 39,
+                    "Hell": 81
+                }
+            ],
+            "The Pit Level 2": [
+                {
+                    "Normal": 7,
+                    "Nightmare": 40,
+                    "Hell": 85
+                }
+            ],
+            "Burial Grounds": [
+                {
+                    "Normal": 3,
+                    "Nightmare": 36,
+                    "Hell": 80
+                }
+            ],
+            "Crypt": [
+                {
+                    "Normal": 3,
+                    "Nightmare": 37,
+                    "Hell": 83
+                }
+            ],
+            "Mausoleum": [
+                {
+                    "Normal": 3,
+                    "Nightmare": 37,
+                    "Hell": 85
+                }
+            ],
+            "Tower Cellar Level 1": [
+                {
+                    "Normal": 7,
+                    "Nightmare": 38,
+                    "Hell": 75
+                }
+            ],
+            "Tower Cellar Level 2": [
+                {
+                    "Normal": 7,
+                    "Nightmare": 39,
+                    "Hell": 76
+                }
+            ],
+            "Tower Cellar Level 3": [
+                {
+                    "Normal": 7,
+                    "Nightmare": 40,
+                    "Hell": 77
+                }
+            ],
+            "Tower Cellar Level 4": [
+                {
+                    "Normal": 7,
+                    "Nightmare": 41,
+                    "Hell": 78
+                }
+            ],
+            "Tower Cellar Level 5": [
+                {
+                    "Normal": 7,
+                    "Nightmare": 42,
+                    "Hell": 79
+                }
+            ],
+            "Monastery Gate": [
+                {
+                    "Normal": 8,
+                    "Nightmare": 40,
+                    "Hell": 70
+                }
+            ],
+            "Outer Cloister": [
+                {
+                    "Normal": 9,
+                    "Nightmare": 40,
+                    "Hell": 70
+                }
+            ],
+            "Barracks": [
+                {
+                    "Normal": 9,
+                    "Nightmare": 40,
+                    "Hell": 70
+                }
+            ],
+            "Jail Level 1": [
+                {
+                    "Normal": 10,
+                    "Nightmare": 41,
+                    "Hell": 71
+                }
+            ],
+            "Jail Level 2": [
+                {
+                    "Normal": 10,
+                    "Nightmare": 41,
+                    "Hell": 71
+                }
+            ],
+            "Jail Level 3": [
+                {
+                    "Normal": 10,
+                    "Nightmare": 41,
+                    "Hell": 71
+                }
+            ],
+            "Inner Cloister": [
+                {
+                    "Normal": 10,
+                    "Nightmare": 41,
+                    "Hell": 72
+                }
+            ],
+            "Cathedral": [
+                {
+                    "Normal": 11,
+                    "Nightmare": 42,
+                    "Hell": 72
+                }
+            ],
+            "Catacombs Level 1": [
+                {
+                    "Normal": 11,
+                    "Nightmare": 42,
+                    "Hell": 72
+                }
+            ],
+            "Catacombs Level 2": [
+                {
+                    "Normal": 11,
+                    "Nightmare": 42,
+                    "Hell": 73
+                }
+            ],
+            "Catacombs Level 3": [
+                {
+                    "Normal": 12,
+                    "Nightmare": 43,
+                    "Hell": 73
+                }
+            ],
+            "Catacombs Level 4": [
+                {
+                    "Normal": 12,
+                    "Nightmare": 43,
+                    "Hell": 73
+                }
+            ],
+            "Tristram": [
+                {
+                    "Normal": 6,
+                    "Nightmare": 39,
+                    "Hell": 76
+                }
+            ],
+            "Secret Cow Level": [
+                {
+                    "Normal": 28,
+                    "Nightmare": 64,
+                    "Hell": 81
+                }
+            ],
+            "Rocky Waste": [
+                {
+                    "Normal": 14,
+                    "Nightmare": 43,
+                    "Hell": 75
+                }
+            ],
+            "Dry Hills": [
+                {
+                    "Normal": 15,
+                    "Nightmare": 44,
+                    "Hell": 76
+                }
+            ],
+            "Far Oasis": [
+                {
+                    "Normal": 16,
+                    "Nightmare": 45,
+                    "Hell": 76
+                }
+            ],
+            "Lost City": [
+                {
+                    "Normal": 17,
+                    "Nightmare": 46,
+                    "Hell": 77
+                }
+            ],
+            "Valley of Snakes": [
+                {
+                    "Normal": 18,
+                    "Nightmare": 46,
+                    "Hell": 77
+                }
+            ],
+            "Canyon of the Magi": [
+                {
+                    "Normal": 16,
+                    "Nightmare": 48,
+                    "Hell": 79
+                }
+            ],
+            "Sewers Level 1(Act 2)": [
+                {
+                    "Normal": 13,
+                    "Nightmare": 43,
+                    "Hell": 74
+                }
+            ],
+            "Sewers Level 2(Act 2)": [
+                {
+                    "Normal": 13,
+                    "Nightmare": 43,
+                    "Hell": 74
+                }
+            ],
+            "Sewers Level 3(Act 2)": [
+                {
+                    "Normal": 14,
+                    "Nightmare": 44,
+                    "Hell": 75
+                }
+            ],
+            "Harem Level 2": [
+                {
+                    "Normal": 13,
+                    "Nightmare": 47,
+                    "Hell": 78
+                }
+            ],
+            "Palace Cellar Level 1": [
+                {
+                    "Normal": 13,
+                    "Nightmare": 47,
+                    "Hell": 78
+                }
+            ],
+            "Palace Cellar Level 2": [
+                {
+                    "Normal": 13,
+                    "Nightmare": 47,
+                    "Hell": 78
+                }
+            ],
+            "Palace Cellar Level 3": [
+                {
+                    "Normal": 13,
+                    "Nightmare": 48,
+                    "Hell": 78
+                }
+            ],
+            "Stony Tomb Level 1": [
+                {
+                    "Normal": 12,
+                    "Nightmare": 44,
+                    "Hell": 78
+                }
+            ],
+            "Halls of the Dead Level 1": [
+                {
+                    "Normal": 12,
+                    "Nightmare": 44,
+                    "Hell": 79
+                }
+            ],
+            "Halls of the Dead Level 2": [
+                {
+                    "Normal": 13,
+                    "Nightmare": 45,
+                    "Hell": 81
+                }
+            ],
+            "Claw Viper Temple Level 1": [
+                {
+                    "Normal": 14,
+                    "Nightmare": 47,
+                    "Hell": 82
+                }
+            ],
+            "Stony Tomb Level 2": [
+                {
+                    "Normal": 12,
+                    "Nightmare": 44,
+                    "Hell": 79
+                }
+            ],
+            "Halls of the Dead Level 3": [
+                {
+                    "Normal": 13,
+                    "Nightmare": 45,
+                    "Hell": 82
+                }
+            ],
+            "Claw Viper Temple Level 2": [
+                {
+                    "Normal": 14,
+                    "Nightmare": 47,
+                    "Hell": 83
+                }
+            ],
+            "Maggot Lair Level 1": [
+                {
+                    "Normal": 17,
+                    "Nightmare": 45,
+                    "Hell": 84
+                }
+            ],
+            "Maggot Lair Level 2": [
+                {
+                    "Normal": 17,
+                    "Nightmare": 45,
+                    "Hell": 84
+                }
+            ],
+            "Maggot Lair Level 3": [
+                {
+                    "Normal": 17,
+                    "Nightmare": 46,
+                    "Hell": 85
+                }
+            ],
+            "Ancient Tunnels": [
+                {
+                    "Normal": 17,
+                    "Nightmare": 46,
+                    "Hell": 85
+                }
+            ],
+            "Tal Rasha's Tomb": [
+                {
+                    "Normal": 17,
+                    "Nightmare": 49,
+                    "Hell": 80
+                }
+            ],
+            "Tal Rasha's Chamber": [
+                {
+                    "Normal": 17,
+                    "Nightmare": 49,
+                    "Hell": 80
+                }
+            ],
+            "Arcane Sanctuary": [
+                {
+                    "Normal": 14,
+                    "Nightmare": 48,
+                    "Hell": 79
+                }
+            ],
+            "Spider Forest": [
+                {
+                    "Normal": 21,
+                    "Nightmare": 49,
+                    "Hell": 79
+                }
+            ],
+            "Great Marsh": [
+                {
+                    "Normal": 21,
+                    "Nightmare": 50,
+                    "Hell": 80
+                }
+            ],
+            "Flayer Jungle": [
+                {
+                    "Normal": 22,
+                    "Nightmare": 50,
+                    "Hell": 80
+                }
+            ],
+            "Lower Kurast": [
+                {
+                    "Normal": 22,
+                    "Nightmare": 52,
+                    "Hell": 80
+                }
+            ],
+            "Kurast Bazaar": [
+                {
+                    "Normal": 22,
+                    "Nightmare": 52,
+                    "Hell": 81
+                }
+            ],
+            "Upper Kurast": [
+                {
+                    "Normal": 23,
+                    "Nightmare": 52,
+                    "Hell": 81
+                }
+            ],
+            "Kurast Causeway": [
+                {
+                    "Normal": 24,
+                    "Nightmare": 53,
+                    "Hell": 81
+                }
+            ],
+            "Travincal": [
+                {
+                    "Normal": 24,
+                    "Nightmare": 54,
+                    "Hell": 82
+                }
+            ],
+            "Spider Cave (Arachnid Lair)": [
+                {
+                    "Normal": 21,
+                    "Nightmare": 50,
+                    "Hell": 79
+                }
+            ],
+            "Spider Cavern": [
+                {
+                    "Normal": 21,
+                    "Nightmare": 50,
+                    "Hell": 79
+                }
+            ],
+            "Swampy Pit Level 1": [
+                {
+                    "Normal": 21,
+                    "Nightmare": 51,
+                    "Hell": 80
+                }
+            ],
+            "Swampy Pit Level 2": [
+                {
+                    "Normal": 21,
+                    "Nightmare": 51,
+                    "Hell": 81
+                }
+            ],
+            "Flayer Dungeon Level 1": [
+                {
+                    "Normal": 22,
+                    "Nightmare": 51,
+                    "Hell": 81
+                }
+            ],
+            "Flayer Dungeon Level 2": [
+                {
+                    "Normal": 22,
+                    "Nightmare": 51,
+                    "Hell": 82
+                }
+            ],
+            "Swampy Pit Level 3": [
+                {
+                    "Normal": 21,
+                    "Nightmare": 51,
+                    "Hell": 82
+                }
+            ],
+            "Flayer Dungeon Level 3": [
+                {
+                    "Normal": 22,
+                    "Nightmare": 51,
+                    "Hell": 83
+                }
+            ],
+            "Sewers Level 1(Act 3)": [
+                {
+                    "Normal": 23,
+                    "Nightmare": 52,
+                    "Hell": 84
+                }
+            ],
+            "Sewers Level 2(Act 3)": [
+                {
+                    "Normal": 24,
+                    "Nightmare": 53,
+                    "Hell": 85
+                }
+            ],
+            "Ruined Temple (In Kurast Bazaar)": [
+                {
+                    "Normal": 23,
+                    "Nightmare": 53,
+                    "Hell": 84
+                }
+            ],
+            "Disused Fane (In Kurast Bazaar)": [
+                {
+                    "Normal": 23,
+                    "Nightmare": 53,
+                    "Hell": 84
+                }
+            ],
+            "Forgotten Reliquary (In Upper Kurast)": [
+                {
+                    "Normal": 23,
+                    "Nightmare": 53,
+                    "Hell": 84
+                }
+            ],
+            "Forgotten Temple (In Upper Kurast)": [
+                {
+                    "Normal": 24,
+                    "Nightmare": 54,
+                    "Hell": 85
+                }
+            ],
+            "Ruined Fane (In Kurast Causeway)": [
+                {
+                    "Normal": 24,
+                    "Nightmare": 54,
+                    "Hell": 85
+                }
+            ],
+            "Disused Reliquary (In Kurast Causeway)": [
+                {
+                    "Normal": 24,
+                    "Nightmare": 54,
+                    "Hell": 85
+                }
+            ],
+            "Durance of Hate Level 1": [
+                {
+                    "Normal": 25,
+                    "Nightmare": 55,
+                    "Hell": 83
+                }
+            ],
+            "Durance of Hate Level 2": [
+                {
+                    "Normal": 25,
+                    "Nightmare": 55,
+                    "Hell": 83
+                }
+            ],
+            "Durance of Hate Level 3": [
+                {
+                    "Normal": 25,
+                    "Nightmare": 55,
+                    "Hell": 83
+                }
+            ],
+            "Outer Steppes": [
+                {
+                    "Normal": 26,
+                    "Nightmare": 56,
+                    "Hell": 82
+                }
+            ],
+            "Plains of Despair": [
+                {
+                    "Normal": 26,
+                    "Nightmare": 56,
+                    "Hell": 83
+                }
+            ],
+            "City of the Damned": [
+                {
+                    "Normal": 27,
+                    "Nightmare": 57,
+                    "Hell": 84
+                }
+            ],
+            "River of Flame": [
+                {
+                    "Normal": 27,
+                    "Nightmare": 57,
+                    "Hell": 85
+                }
+            ],
+            "Chaos Sanctuary": [
+                {
+                    "Normal": 28,
+                    "Nightmare": 58,
+                    "Hell": 85
+                }
+            ],
+            "Bloody Foothills": [
+                {
+                    "Normal": 24,
+                    "Nightmare": 58,
+                    "Hell": 80
+                }
+            ],
+            "Frigid Highlands": [
+                {
+                    "Normal": 25,
+                    "Nightmare": 59,
+                    "Hell": 81
+                }
+            ],
+            "Arreat Plateau": [
+                {
+                    "Normal": 26,
+                    "Nightmare": 60,
+                    "Hell": 81
+                }
+            ],
+            "Crystalized Cavern Level 1 (Crystalline Passage)": [
+                {
+                    "Normal": 29,
+                    "Nightmare": 61,
+                    "Hell": 82
+                }
+            ],
+            "Cellar of Pity (Frozen River)": [
+                {
+                    "Normal": 29,
+                    "Nightmare": 61,
+                    "Hell": 83
+                }
+            ],
+            "Crystalized Cavern Level 2 (Glacial Trail)": [
+                {
+                    "Normal": 29,
+                    "Nightmare": 61,
+                    "Hell": 83
+                }
+            ],
+            "Echo Chamber (Drifter Cavern)": [
+                {
+                    "Normal": 29,
+                    "Nightmare": 61,
+                    "Hell": 84
+                }
+            ],
+            "Tundra Wastelands (Frozen Tundra)": [
+                {
+                    "Normal": 27,
+                    "Nightmare": 60,
+                    "Hell": 81
+                }
+            ],
+            "Glacial Caves Level 1 (Ancients' Way)": [
+                {
+                    "Normal": 29,
+                    "Nightmare": 62,
+                    "Hell": 82
+                }
+            ],
+            "Glacial Caves Level 2 (Icy Cellar)": [
+                {
+                    "Normal": 29,
+                    "Nightmare": 62,
+                    "Hell": 83
+                }
+            ],
+            "Rocky Summit (Arreat Summit)": [
+                {
+                    "Normal": 37,
+                    "Nightmare": 68,
+                    "Hell": 87
+                }
+            ],
+            "Nihlathak's Temple": [
+                {
+                    "Normal": 32,
+                    "Nightmare": 63,
+                    "Hell": 83
+                }
+            ],
+            "Halls of Anguish": [
+                {
+                    "Normal": 33,
+                    "Nightmare": 63,
+                    "Hell": 83
+                }
+            ],
+            "Halls of Death's Calling (Halls of Pain)": [
+                {
+                    "Normal": 34,
+                    "Nightmare": 64,
+                    "Hell": 84
+                }
+            ],
+            "Halls of Vaught": [
+                {
+                    "Normal": 36,
+                    "Nightmare": 64,
+                    "Hell": 84
+                }
+            ],
+            "Hell 1 (Abaddon)": [
+                {
+                    "Normal": 39,
+                    "Nightmare": 60,
+                    "Hell": 81
+                }
+            ],
+            "Hell 2 (Pit of Acheron)": [
+                {
+                    "Normal": 39,
+                    "Nightmare": 61,
+                    "Hell": 82
+                }
+            ],
+            "Hell 3 (Infernal Pit)": [
+                {
+                    "Normal": 39,
+                    "Nightmare": 62,
+                    "Hell": 83
+                }
+            ],
+            "The Worldstone Keep Level 1": [
+                {
+                    "Normal": 39,
+                    "Nightmare": 65,
+                    "Hell": 85
+                }
+            ],
+            "The Worldstone Keep Level 2": [
+                {
+                    "Normal": 40,
+                    "Nightmare": 65,
+                    "Hell": 85
+                }
+            ],
+            "The Worldstone Keep Level 3": [
+                {
+                    "Normal": 42,
+                    "Nightmare": 66,
+                    "Hell": 85
+                }
+            ],
+            "Throne of Destruction": [
+                {
+                    "Normal": 43,
+                    "Nightmare": 66,
+                    "Hell": 85
+                }
+            ],
+            "Worldstone Chamber": [
+                {
+                    "Normal": 43,
+                    "Nightmare": 66,
+                    "Hell": 85
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+<HMTL>
+
+    <HEAD>
+        <TITLE>webpage1</TITLE>
+    </HEAD>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <Script>
+        $(document).ready(function () {
+            $.getJSON("./zonelist.json", function (json) {
+                $.each(json.Zones, function (key) {
+                    $("#dropDownZone").append("<option>" + value.Zones.key + "</option>");
+                });
+            });
+        });
+    </Script>
+
+    <BODY BGCOLOR="FFFFFf" LINK="006666" ALINK="8B4513" VLINK="006666">
+        <TABLE WIDTH="75%" ALIGN="center">
+            <TR>
+                <TD>
+                    <DIV ALIGN="center">
+                        <H1>Socket to zone level calculator </H1>
+                    </DIV>
+                    <DIV style="text-align:center">
+                        <P>Please enter your difficulty</p>
+                        <select id="difficulty" style="align-content: center;">
+                            <option id="Normal">Normal</option>
+                            <option id="Nightmare">Nightmare</option>
+                            <option id="Hell">Hell</option>
+                        </select>
+                        <p>Please enter your current zone</p>
+                        <select name="drop_down" id="dropDownZone">
+                            <option value="None" selected="Selected">Select type</option>
+                        </select>
+                        <P></P>
+                        </P>
+                    </DIV>
+                </TD>
+            </TR>
+        </TABLE>
+    </BODY>
+
+    </HTML>
