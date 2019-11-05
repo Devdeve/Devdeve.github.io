@@ -1,17 +1,19 @@
 <HMTL>
+
     <HEAD>
         <TITLE>webpage1</TITLE>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <Script>
-        $(document).ready(function () {
-            $.getJSON("./zonelist.json", function (json) {
-                $.each(json.Zones, function (key) {
-                    $("#dropDownZone").append("<option>" + value.Zones.key + "</option>");
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <Script>
+            $(document).ready(function () {
+                $.getJSON("./zonelist.json", function (json) {
+                    $.each(json.Zones, function (key) {
+                        $("#dropDownZone").append("<option>" + value.Zones.key + "</option>");
+                    });
                 });
             });
-        });
-    </Script>
+        </Script>
     </HEAD>
+
     <BODY BGCOLOR="FFFFFf" LINK="006666" ALINK="8B4513" VLINK="006666">
         <TABLE WIDTH="75%" ALIGN="center">
             <TR>
@@ -30,10 +32,18 @@
                         <select name="drop_down" id="dropDownZone">
                             <option value="None" selected="Selected">Select type</option>
                         </select>
-                        <P></P>
+                        <P>Please select your desired item base</P>
+                        <select name="drop_down" id="dropDownItems">
+                            <option value="None" selected="Selected">Select type</option>
+                            <option value="Shield">Shield</option>
+                            <option value="Sword">Sword</option>
+                            <option value="Axe">Axe</option>
+                            <option value="Helmet">Helmet</option>
+                        </select>
                     </DIV>
                 </TD>
             </TR>
         </TABLE>
     </BODY>
+
     </HTML>
