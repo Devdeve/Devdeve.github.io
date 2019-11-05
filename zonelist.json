@@ -253,19 +253,19 @@
             "Hell": 79
         },
         {
-            "ZoneName": "Sewers Level 1",
+            "ZoneName": "Sewers Level 1(Act 2)",
             "Normal": 13,
             "Nightmare": 43,
             "Hell": 74
         },
         {
-            "ZoneName": "Sewers Level 2",
+            "ZoneName": "Sewers Level 2(Act 2)",
             "Normal": 13,
             "Nightmare": 43,
             "Hell": 74
         },
         {
-            "ZoneName": "Sewers Level 3",
+            "ZoneName": "Sewers Level 3(Act 2)",
             "Normal": 14,
             "Nightmare": 44,
             "Hell": 75
@@ -475,13 +475,13 @@
             "Hell": 83
         },
         {
-            "ZoneName": "Sewers Level 1",
+            "ZoneName": "Sewers Level 1(Act 3)",
             "Normal": 23,
             "Nightmare": 52,
             "Hell": 84
         },
         {
-            "ZoneName": "Sewers Level 2",
+            "ZoneName": "Sewers Level 2(Act 3)",
             "Normal": 24,
             "Nightmare": 53,
             "Hell": 85

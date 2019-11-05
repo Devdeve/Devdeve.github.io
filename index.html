@@ -6,8 +6,8 @@
         <Script>
             $(document).ready(function () {
                 $.getJSON("./zonelist.json", function (obj) {
-                    $.each(obj.Zone, function (key, value) {
-                        $("#dropDownZone").append('<option value="' + value.Zone + '">' + value.Zone + '</option>');
+                    $.each(obj.Zones, function (key, value) {
+                        $("#dropDownZone").append('<option value="' + value.ZoneName + '">' + value.ZoneName + '</option>');
                     });
                 });
             });
