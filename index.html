@@ -69,17 +69,35 @@
                 }
             });
         });
+        var matchingitems = [];
         document.getElementById("itemlist").innerHTML = "";
         $.getJSON("./itemcategory.json", function (obj) {
             $.each(obj, function (key, value) {
                 if (key <= zoneLevel) {
                     $.each(value, function (key, value) {
                         if ((key == dropDownItemsChoice)) {
-                            document.getElementById("itemlist").innerHTML += value;
-                            document.getElementById("itemlist").innerHTML += "\n";
+                            matchingitems.push(value);
                         }
                     });
                 }
+            });
+        });
+        $.getJSON("./itemlist.json", function (obj) {
+            if (zoneLevel < 26) {
+                zoneLevel = "25";
+            } else if (zoneLevel < 41) {
+                zoneLevel = "40";
+            } else {
+                zoneLevel = "41";
+            }
+            matchingitems.forEach(function (entry) {
+                $.each(obj.Itemlist, function (key, value) {
+                    if (value.Item == entry) {
+                        document.getElementById("itemlist").innerHTML += entry + " can currently drop. This can drop with maximum " + value[zoneLevel] + " sockets";
+                        document.getElementById("itemlist").innerHTML += "\n";
+                    }
+
+                });
             });
         });
     }

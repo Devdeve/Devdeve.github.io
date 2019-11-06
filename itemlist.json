@@ -1,2946 +1,2527 @@
 {
-    "Buckler": [
+    "Itemlist": [
         {
+            "Item": "Buckler",
             "25": 1,
             "40": 1,
             "41": 1
-        }
-    ],
-    "Burnt Wand": [
+        },
         {
+            "Item": "Burnt Wand",
             "25": 1,
             "40": 1,
             "41": 1
-        }
-    ],
-    "Dagger": [
+        },
         {
+            "Item": "Dagger",
             "25": 1,
             "40": 1,
             "41": 1
-        }
-    ],
-    "Defender": [
+        },
         {
+            "Item": "Defender",
             "25": 1,
             "40": 1,
             "41": 1
-        }
-    ],
-    "Dirk": [
+        },
         {
+            "Item": "Dirk",
             "25": 1,
             "40": 1,
             "41": 1
-        }
-    ],
-    "Mithril Point": [
+        },
         {
+            "Item": "Mithril Point",
             "25": 1,
             "40": 1,
             "41": 1
-        }
-    ],
-    "Poignard": [
+        },
         {
+            "Item": "Poignard",
             "25": 1,
             "40": 1,
             "41": 1
-        }
-    ],
-    "Rondel": [
+        },
         {
+            "Item": "Rondel",
             "25": 1,
             "40": 1,
             "41": 1
-        }
-    ],
-    "Wand": [
+        },
         {
+            "Item": "Wand",
             "25": 1,
             "40": 1,
             "41": 1
-        }
-    ],
-    "Yew Wand": [
+        },
         {
+            "Item": "Yew Wand",
             "25": 1,
             "40": 1,
             "41": 1
-        }
-    ],
-    "Circlet": [
+        },
         {
+            "Item": "Circlet",
             "25": 1,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Coronet": [
+        },
         {
+            "Item": "Coronet",
             "25": 1,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Diadem": [
+        },
         {
+            "Item": "Diadem",
             "25": 1,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Tiara": [
+        },
         {
+            "Item": "Tiara",
             "25": 1,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Armet": [
+        },
         {
+            "Item": "Armet",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Ataghan": [
+        },
         {
+            "Item": "Ataghan",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Barbed Shield": [
+        },
         {
+            "Item": "Barbed Shield",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Basinet": [
+        },
         {
+            "Item": "Basinet",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Battle Cestus": [
+        },
         {
+            "Item": "Battle Cestus",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Blade": [
+        },
         {
+            "Item": "Blade",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Bloodlord Skull": [
+        },
         {
+            "Item": "Bloodlord Skull",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Bone Helm": [
+        },
         {
+            "Item": "Bone Helm",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Bone Shield": [
+        },
         {
+            "Item": "Bone Shield",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Bone Wand": [
+        },
         {
+            "Item": "Bone Wand",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Cantor Trophy": [
+        },
         {
+            "Item": "Cantor Trophy",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Cap/hat": [
+        },
         {
+            "Item": "Cap/hat",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Casque": [
+        },
         {
+            "Item": "Casque",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Cestus": [
+        },
         {
+            "Item": "Cestus",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Chain Mail": [
+        },
         {
+            "Item": "Chain Mail",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Club": [
+        },
         {
+            "Item": "Club",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Cudgel": [
+        },
         {
+            "Item": "Cudgel",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Cutlass": [
+        },
         {
+            "Item": "Cutlass",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Demon Head": [
+        },
         {
+            "Item": "Demon Head",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Demonhide Armor": [
+        },
         {
+            "Item": "Demonhide Armor",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Elegant Blade": [
+        },
         {
+            "Item": "Elegant Blade",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Falcata": [
+        },
         {
+            "Item": "Falcata",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Falchion": [
+        },
         {
+            "Item": "Falchion",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Fascia": [
+        },
         {
+            "Item": "Fascia",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Fetish Trophy": [
+        },
         {
+            "Item": "Fetish Trophy",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Field Plate": [
+        },
         {
+            "Item": "Field Plate",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Flanged Mace": [
+        },
         {
+            "Item": "Flanged Mace",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Full Helm": [
+        },
         {
+            "Item": "Full Helm",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Gargoyle Head": [
+        },
         {
+            "Item": "Gargoyle Head",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Ghost Armor": [
+        },
         {
+            "Item": "Ghost Armor",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Ghost Wand": [
+        },
         {
+            "Item": "Ghost Wand",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Giant Conch": [
+        },
         {
+            "Item": "Giant Conch",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Gladius": [
+        },
         {
+            "Item": "Gladius",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Grave Wand": [
+        },
         {
+            "Item": "Grave Wand",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Grim Helm": [
+        },
         {
+            "Item": "Grim Helm",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Grim Shield": [
+        },
         {
+            "Item": "Grim Shield",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Grim Wand": [
+        },
         {
+            "Item": "Grim Wand",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Hand Axe": [
+        },
         {
+            "Item": "Hand Axe",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Hand Scythe": [
+        },
         {
+            "Item": "Hand Scythe",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Hard Leather Armor": [
+        },
         {
+            "Item": "Hard Leather Armor",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Hatchet": [
+        },
         {
+            "Item": "Hatchet",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Hatchet Hands": [
+        },
         {
+            "Item": "Hatchet Hands",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Heater": [
+        },
         {
+            "Item": "Heater",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Heirophant Trophy": [
+        },
         {
+            "Item": "Heirophant Trophy",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Hellspawn Skull": [
+        },
         {
+            "Item": "Hellspawn Skull",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Helm": [
+        },
         {
+            "Item": "Helm",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Hydra Edge": [
+        },
         {
+            "Item": "Hydra Edge",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Hydraskull": [
+        },
         {
+            "Item": "Hydraskull",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Jo Staff": [
+        },
         {
+            "Item": "Jo Staff",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Katar": [
+        },
         {
+            "Item": "Katar",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Leather Armor": [
+        },
         {
+            "Item": "Leather Armor",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Legend Spike": [
+        },
         {
+            "Item": "Legend Spike",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Lich Wand": [
+        },
         {
+            "Item": "Lich Wand",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Luna": [
+        },
         {
+            "Item": "Luna",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Mace": [
+        },
         {
+            "Item": "Mace",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Mighty Scepter": [
+        },
         {
+            "Item": "Mighty Scepter",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Minion Skull": [
+        },
         {
+            "Item": "Minion Skull",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Mummified Trophy": [
+        },
         {
+            "Item": "Mummified Trophy",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Overseer Skull": [
+        },
         {
+            "Item": "Overseer Skull",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Petrified Wand": [
+        },
         {
+            "Item": "Petrified Wand",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Plate Mail": [
+        },
         {
+            "Item": "Plate Mail",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Polished Wand": [
+        },
         {
+            "Item": "Polished Wand",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Preserved Head": [
+        },
         {
+            "Item": "Preserved Head",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Quilted Armor": [
+        },
         {
+            "Item": "Quilted Armor",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Reinforced Mace": [
+        },
         {
+            "Item": "Reinforced Mace",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Round Shield": [
+        },
         {
+            "Item": "Round Shield",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Rune Scepter": [
+        },
         {
+            "Item": "Rune Scepter",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Saber": [
+        },
         {
+            "Item": "Saber",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Sallet": [
+        },
         {
+            "Item": "Sallet",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Scale Mail": [
+        },
         {
+            "Item": "Scale Mail",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Scepter": [
+        },
         {
+            "Item": "Scepter",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Scimitar": [
+        },
         {
+            "Item": "Scimitar",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Serpentskin Armor": [
+        },
         {
+            "Item": "Serpentskin Armor",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Sexton Trophy": [
+        },
         {
+            "Item": "Sexton Trophy",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Shako": [
+        },
         {
+            "Item": "Shako",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Shamshir": [
+        },
         {
+            "Item": "Shamshir",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Short Staff": [
+        },
         {
+            "Item": "Short Staff",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Short Sword": [
+        },
         {
+            "Item": "Short Sword",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Skull Cap": [
+        },
         {
+            "Item": "Skull Cap",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Small Shield": [
+        },
         {
+            "Item": "Small Shield",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Spiked Club": [
+        },
         {
+            "Item": "Spiked Club",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Spiked Shield": [
+        },
         {
+            "Item": "Spiked Shield",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Splint Mail": [
+        },
         {
+            "Item": "Splint Mail",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Stilleto": [
+        },
         {
+            "Item": "Stilleto",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Studded Leather": [
+        },
         {
+            "Item": "Studded Leather",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Succubae Skull": [
+        },
         {
+            "Item": "Succubae Skull",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Tomahawk": [
+        },
         {
+            "Item": "Tomahawk",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Tomb Wand": [
+        },
         {
+            "Item": "Tomb Wand",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Trellised Armor": [
+        },
         {
+            "Item": "Trellised Armor",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Truncheon": [
+        },
         {
+            "Item": "Truncheon",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Tulwar": [
+        },
         {
+            "Item": "Tulwar",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Unearthed Wand": [
+        },
         {
+            "Item": "Unearthed Wand",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Unraveller Head": [
+        },
         {
+            "Item": "Unraveller Head",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Walking Stick": [
+        },
         {
+            "Item": "Walking Stick",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "War Fist": [
+        },
         {
+            "Item": "War Fist",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "War Hat": [
+        },
         {
+            "Item": "War Hat",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Wrist Blade": [
+        },
         {
+            "Item": "Wrist Blade",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Wrist Spike": [
+        },
         {
+            "Item": "Wrist Spike",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Zombie Head": [
+        },
         {
+            "Item": "Zombie Head",
             "25": 2,
             "40": 2,
             "41": 2
-        }
-    ],
-    "Bone Visage": [
+        },
         {
+            "Item": "Bone Visage",
             "25": 2,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Corona": [
+        },
         {
+            "Item": "Corona",
             "25": 2,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Crown": [
+        },
         {
+            "Item": "Crown",
             "25": 2,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Death Mask": [
+        },
         {
+            "Item": "Death Mask",
             "25": 2,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Demonhead": [
+        },
         {
+            "Item": "Demonhead",
             "25": 2,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Grand Crown": [
+        },
         {
+            "Item": "Grand Crown",
             "25": 2,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Great Helm": [
+        },
         {
+            "Item": "Great Helm",
             "25": 2,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Mask": [
+        },
         {
+            "Item": "Mask",
             "25": 2,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Spired Helm": [
+        },
         {
+            "Item": "Spired Helm",
             "25": 2,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Winged Helm": [
+        },
         {
+            "Item": "Winged Helm",
             "25": 2,
             "40": 2,
             "41": 3
-        }
-    ],
-    "Alpha Helm": [
+        },
         {
+            "Item": "Alpha Helm",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Antlers": [
+        },
         {
+            "Item": "Antlers",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Assault Helmet": [
+        },
         {
+            "Item": "Assault Helmet",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Avenger Guard": [
+        },
         {
+            "Item": "Avenger Guard",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Blade Talons": [
+        },
         {
+            "Item": "Blade Talons",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Blood Spirt": [
+        },
         {
+            "Item": "Blood Spirt",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Carnage Helm": [
+        },
         {
+            "Item": "Carnage Helm",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Cinquedeas": [
+        },
         {
+            "Item": "Cinquedeas",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Claws": [
+        },
         {
+            "Item": "Claws",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Conquerer Crown": [
+        },
         {
+            "Item": "Conquerer Crown",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Destroyer Helm": [
+        },
         {
+            "Item": "Destroyer Helm",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Dream Spirit": [
+        },
         {
+            "Item": "Dream Spirit",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Earth Spirit": [
+        },
         {
+            "Item": "Earth Spirit",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Falcon Mask": [
+        },
         {
+            "Item": "Falcon Mask",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Fanged Helm": [
+        },
         {
+            "Item": "Fanged Helm",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Fanged Knife": [
+        },
         {
+            "Item": "Fanged Knife",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Feral Claws": [
+        },
         {
+            "Item": "Feral Claws",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Fury Visor": [
+        },
         {
+            "Item": "Fury Visor",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Greater Claws": [
+        },
         {
+            "Item": "Greater Claws",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Greater Talons": [
+        },
         {
+            "Item": "Greater Talons",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Griffon Headress": [
+        },
         {
+            "Item": "Griffon Headress",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Guardian Crown": [
+        },
         {
+            "Item": "Guardian Crown",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Hawk Helm": [
+        },
         {
+            "Item": "Hawk Helm",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Horned Helm": [
+        },
         {
+            "Item": "Horned Helm",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Hunter's Guise": [
+        },
         {
+            "Item": "Hunter's Guise",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Jawbone Cap": [
+        },
         {
+            "Item": "Jawbone Cap",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Jawbone Visor": [
+        },
         {
+            "Item": "Jawbone Visor",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Kriss": [
+        },
         {
+            "Item": "Kriss",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Lion Helm": [
+        },
         {
+            "Item": "Lion Helm",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Quhab": [
+        },
         {
+            "Item": "Quhab",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Rage Mask": [
+        },
         {
+            "Item": "Rage Mask",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Runic Talons": [
+        },
         {
+            "Item": "Runic Talons",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Sacred Feathers": [
+        },
         {
+            "Item": "Sacred Feathers",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Savage Helmet": [
+        },
         {
+            "Item": "Savage Helmet",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Scissors Katar": [
+        },
         {
+            "Item": "Scissors Katar",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Scissors Quhab": [
+        },
         {
+            "Item": "Scissors Quhab",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Scissors Suwayyah": [
+        },
         {
+            "Item": "Scissors Suwayyah",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Sky Spirit": [
+        },
         {
+            "Item": "Sky Spirit",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Slayer Guard": [
+        },
         {
+            "Item": "Slayer Guard",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Spirit Mask": [
+        },
         {
+            "Item": "Spirit Mask",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Sun Spirit": [
+        },
         {
+            "Item": "Sun Spirit",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Suwayyah": [
+        },
         {
+            "Item": "Suwayyah",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Totemic Mask": [
+        },
         {
+            "Item": "Totemic Mask",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Wolf Head": [
+        },
         {
+            "Item": "Wolf Head",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Wrist Sword": [
+        },
         {
+            "Item": "Wrist Sword",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Clasped Orb": [
+        },
         {
+            "Item": "Clasped Orb",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Cloudy Sphere": [
+        },
         {
+            "Item": "Cloudy Sphere",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Crystalline Globe": [
+        },
         {
+            "Item": "Crystalline Globe",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Demon Heart": [
+        },
         {
+            "Item": "Demon Heart",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Dimensional Shard": [
+        },
         {
+            "Item": "Dimensional Shard",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Dragon Stone": [
+        },
         {
+            "Item": "Dragon Stone",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Eagle Orb": [
+        },
         {
+            "Item": "Eagle Orb",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Eldritch Orb": [
+        },
         {
+            "Item": "Eldritch Orb",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Glowing Orb": [
+        },
         {
+            "Item": "Glowing Orb",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Heavenly Stone": [
+        },
         {
+            "Item": "Heavenly Stone",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Sacred Globe": [
+        },
         {
+            "Item": "Sacred Globe",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Smoked Sphere": [
+        },
         {
+            "Item": "Smoked Sphere",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Sparkling Ball": [
+        },
         {
+            "Item": "Sparkling Ball",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Swirling Crystal": [
+        },
         {
+            "Item": "Swirling Crystal",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Vortex Orb": [
+        },
         {
+            "Item": "Vortex Orb",
             "25": 2,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Ancient Shield": [
+        },
         {
+            "Item": "Ancient Shield",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Ancient Sword": [
+        },
         {
+            "Item": "Ancient Sword",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Arbalest": [
+        },
         {
+            "Item": "Arbalest",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Barbed Club": [
+        },
         {
+            "Item": "Barbed Club",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Bardiche": [
+        },
         {
+            "Item": "Bardiche",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Blade Barrier": [
+        },
         {
+            "Item": "Blade Barrier",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Breast Plate": [
+        },
         {
+            "Item": "Breast Plate",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Cuirass": [
+        },
         {
+            "Item": "Cuirass",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Devil Star": [
+        },
         {
+            "Item": "Devil Star",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Dragon Shield": [
+        },
         {
+            "Item": "Dragon Shield",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Edge Bow": [
+        },
         {
+            "Item": "Edge Bow",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Espadon": [
+        },
         {
+            "Item": "Espadon",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Gothic Shield": [
+        },
         {
+            "Item": "Gothic Shield",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Grand Scepter": [
+        },
         {
+            "Item": "Grand Scepter",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Holy Water Sprinkler": [
+        },
         {
+            "Item": "Holy Water Sprinkler",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Hyperion": [
+        },
         {
+            "Item": "Hyperion",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Hyperion Spear": [
+        },
         {
+            "Item": "Hyperion Spear",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Jagged Star": [
+        },
         {
+            "Item": "Jagged Star",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "KhalimFlail": [
+        },
         {
+            "Item": "KhalimFlail",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Kite Shield": [
+        },
         {
+            "Item": "Kite Shield",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Large Shield": [
+        },
         {
+            "Item": "Large Shield",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Legend Sword": [
+        },
         {
+            "Item": "Legend Sword",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Light Crossbow": [
+        },
         {
+            "Item": "Light Crossbow",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Light Plate": [
+        },
         {
+            "Item": "Light Plate",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Linked Mail": [
+        },
         {
+            "Item": "Linked Mail",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Lochaber Axe": [
+        },
         {
+            "Item": "Lochaber Axe",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Long Staff": [
+        },
         {
+            "Item": "Long Staff",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Mage Plate": [
+        },
         {
+            "Item": "Mage Plate",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Mesh Armor": [
+        },
         {
+            "Item": "Mesh Armor",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Morning Star": [
+        },
         {
+            "Item": "Morning Star",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Mythical Sword": [
+        },
         {
+            "Item": "Mythical Sword",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Ogre Axe": [
+        },
         {
+            "Item": "Ogre Axe",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Pavise": [
+        },
         {
+            "Item": "Pavise",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Pellet Bow": [
+        },
         {
+            "Item": "Pellet Bow",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Quarterstaff": [
+        },
         {
+            "Item": "Quarterstaff",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Ring Mail": [
+        },
         {
+            "Item": "Ring Mail",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Russet Armor": [
+        },
         {
+            "Item": "Russet Armor",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Scutum": [
+        },
         {
+            "Item": "Scutum",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Seraph Rod": [
+        },
         {
+            "Item": "Seraph Rod",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Sharktooth Armor": [
+        },
         {
+            "Item": "Sharktooth Armor",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Short Bow": [
+        },
         {
+            "Item": "Short Bow",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Spear": [
+        },
         {
+            "Item": "Spear",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Spider Bow": [
+        },
         {
+            "Item": "Spider Bow",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Stalagmite": [
+        },
         {
+            "Item": "Stalagmite",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "SuperKhalimFlail": [
+        },
         {
+            "Item": "SuperKhalimFlail",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Templar Coat": [
+        },
         {
+            "Item": "Templar Coat",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Tigulated Mail": [
+        },
         {
+            "Item": "Tigulated Mail",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Tower Shield": [
+        },
         {
+            "Item": "Tower Shield",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Troll Nest": [
+        },
         {
+            "Item": "Troll Nest",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Two-Handed Sword": [
+        },
         {
+            "Item": "Two-Handed Sword",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Tyrant Club": [
+        },
         {
+            "Item": "Tyrant Club",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "War Spear": [
+        },
         {
+            "Item": "War Spear",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "War Sword": [
+        },
         {
+            "Item": "War Sword",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Wirt's Leg": [
+        },
         {
+            "Item": "Wirt's Leg",
             "25": 3,
             "40": 3,
             "41": 3
-        }
-    ],
-    "Aegis": [
+        },
         {
+            "Item": "Aegis",
             "25": 3,
             "40": 3,
             "41": 4
-        }
-    ],
-    "Monarch": [
+        },
         {
+            "Item": "Monarch",
             "25": 3,
             "40": 3,
             "41": 4
-        }
-    ],
-    "Ward": [
+        },
         {
+            "Item": "Ward",
             "25": 3,
             "40": 3,
             "41": 4
-        }
-    ],
-    "Aerin Shield": [
+        },
         {
+            "Item": "Aerin Shield",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Akaran Rondache": [
+        },
         {
+            "Item": "Akaran Rondache",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Akaran Targe": [
+        },
         {
+            "Item": "Akaran Targe",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Ancient Armor": [
+        },
         {
+            "Item": "Ancient Armor",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Kurast Shield": [
+        },
         {
+            "Item": "Kurast Shield",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Archon Plate": [
+        },
         {
+            "Item": "Archon Plate",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Balrog Blade": [
+        },
         {
+            "Item": "Balrog Blade",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Balrog Skin": [
+        },
         {
+            "Item": "Balrog Skin",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Bastard Sword": [
+        },
         {
+            "Item": "Bastard Sword",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Battle Hammer": [
+        },
         {
+            "Item": "Battle Hammer",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Battle Sword": [
+        },
         {
+            "Item": "Battle Sword",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Bill": [
+        },
         {
+            "Item": "Bill",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Blade Bow": [
+        },
         {
+            "Item": "Blade Bow",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Boneweave": [
+        },
         {
+            "Item": "Boneweave",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Broad Sword": [
+        },
         {
+            "Item": "Broad Sword",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Champion Sword": [
+        },
         {
+            "Item": "Champion Sword",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Chaos Armor": [
+        },
         {
+            "Item": "Chaos Armor",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Claymore": [
+        },
         {
+            "Item": "Claymore",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Colossus Voulge": [
+        },
         {
+            "Item": "Colossus Voulge",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Composite Bow": [
+        },
         {
+            "Item": "Composite Bow",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Conquest Sword": [
+        },
         {
+            "Item": "Conquest Sword",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Crossbow": [
+        },
         {
+            "Item": "Crossbow",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Crown Shield": [
+        },
         {
+            "Item": "Crown Shield",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Cryptic Sword": [
+        },
         {
+            "Item": "Cryptic Sword",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Dacian Falx": [
+        },
         {
+            "Item": "Dacian Falx",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Diamond Mail": [
+        },
         {
+            "Item": "Diamond Mail",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Double Bow": [
+        },
         {
+            "Item": "Double Bow",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Dusk Shroud": [
+        },
         {
+            "Item": "Dusk Shroud",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Embossed Plate": [
+        },
         {
+            "Item": "Embossed Plate",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Full Plate Mail": [
+        },
         {
+            "Item": "Full Plate Mail",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Fuscina": [
+        },
         {
+            "Item": "Fuscina",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Giant Sword": [
+        },
         {
+            "Item": "Giant Sword",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Gorgon Crossbow": [
+        },
         {
+            "Item": "Gorgon Crossbow",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Gothic Plate": [
+        },
         {
+            "Item": "Gothic Plate",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Gothic Sword": [
+        },
         {
+            "Item": "Gothic Sword",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Great Bow": [
+        },
         {
+            "Item": "Great Bow",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Great Hauberk": [
+        },
         {
+            "Item": "Great Hauberk",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Guilded Shield": [
+        },
         {
+            "Item": "Guilded Shield",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Hellforged Plate": [
+        },
         {
+            "Item": "Hellforged Plate",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Heraldic Shield": [
+        },
         {
+            "Item": "Heraldic Shield",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Highland Blade": [
+        },
         {
+            "Item": "Highland Blade",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Hunter's Bow": [
+        },
         {
+            "Item": "Hunter's Bow",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Kraken Shell": [
+        },
         {
+            "Item": "Kraken Shell",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Lacquered Plate": [
+        },
         {
+            "Item": "Lacquered Plate",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Legendary Mallet": [
+        },
         {
+            "Item": "Legendary Mallet",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Long Sword": [
+        },
         {
+            "Item": "Long Sword",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Loricated Mail": [
+        },
         {
+            "Item": "Loricated Mail",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Ornate Armor": [
+        },
         {
+            "Item": "Ornate Armor",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Protector Shield": [
+        },
         {
+            "Item": "Protector Shield",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Razor Bow": [
+        },
         {
+            "Item": "Razor Bow",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Rondache": [
+        },
         {
+            "Item": "Rondache",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Royal Shield": [
+        },
         {
+            "Item": "Royal Shield",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Rune Sword": [
+        },
         {
+            "Item": "Rune Sword",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Sacred Armor": [
+        },
         {
+            "Item": "Sacred Armor",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Sacred Rondache": [
+        },
         {
+            "Item": "Sacred Rondache",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Sacred Targe": [
+        },
         {
+            "Item": "Sacred Targe",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Scarab Husk": [
+        },
         {
+            "Item": "Scarab Husk",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Shadow Plate": [
+        },
         {
+            "Item": "Shadow Plate",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Siege Crossbow": [
+        },
         {
+            "Item": "Siege Crossbow",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Stygian Pike": [
+        },
         {
+            "Item": "Stygian Pike",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Targe": [
+        },
         {
+            "Item": "Targe",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Trident": [
+        },
         {
+            "Item": "Trident",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Tusk Sword": [
+        },
         {
+            "Item": "Tusk Sword",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Vortex Shield": [
+        },
         {
+            "Item": "Vortex Shield",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Voulge": [
+        },
         {
+            "Item": "Voulge",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "War Hammer": [
+        },
         {
+            "Item": "War Hammer",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Wire Fleece": [
+        },
         {
+            "Item": "Wire Fleece",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Wyrmhide": [
+        },
         {
+            "Item": "Wyrmhide",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Zakarum Shield": [
+        },
         {
+            "Item": "Zakarum Shield",
             "25": 3,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Ashwood Bow": [
+        },
         {
+            "Item": "Ashwood Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Battle Scythe": [
+        },
         {
+            "Item": "Battle Scythe",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Brandistock": [
+        },
         {
+            "Item": "Brandistock",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Cedar Bow": [
+        },
         {
+            "Item": "Cedar Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Chu-Ko-Nu": [
+        },
         {
+            "Item": "Chu-Ko-Nu",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Colossal Sword": [
+        },
         {
+            "Item": "Colossal Sword",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Cryptic Axe": [
+        },
         {
+            "Item": "Cryptic Axe",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Demon Crossbow": [
+        },
         {
+            "Item": "Demon Crossbow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Diamond Bow": [
+        },
         {
+            "Item": "Diamond Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Flail": [
+        },
         {
+            "Item": "Flail",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Flamberge": [
+        },
         {
+            "Item": "Flamberge",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Hellforge Hammer": [
+        },
         {
+            "Item": "Hellforge Hammer",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Knout": [
+        },
         {
+            "Item": "Knout",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Long Bow": [
+        },
         {
+            "Item": "Long Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Mancatcher": [
+        },
         {
+            "Item": "Mancatcher",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Matriarchal Bow": [
+        },
         {
+            "Item": "Matriarchal Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Partizan": [
+        },
         {
+            "Item": "Partizan",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Poleaxe": [
+        },
         {
+            "Item": "Poleaxe",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Repeating Crossbow": [
+        },
         {
+            "Item": "Repeating Crossbow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Rune Bow": [
+        },
         {
+            "Item": "Rune Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Scourge": [
+        },
         {
+            "Item": "Scourge",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Scythe": [
+        },
         {
+            "Item": "Scythe",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Shadow Bow": [
+        },
         {
+            "Item": "Shadow Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Short Battle Bow": [
+        },
         {
+            "Item": "Short Battle Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Short Siege Bow": [
+        },
         {
+            "Item": "Short Siege Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Short War Bow": [
+        },
         {
+            "Item": "Short War Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Stag Bow": [
+        },
         {
+            "Item": "Stag Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Thresher": [
+        },
         {
+            "Item": "Thresher",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "War Fork": [
+        },
         {
+            "Item": "War Fork",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Ward Bow": [
+        },
         {
+            "Item": "Ward Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Zweihander": [
+        },
         {
+            "Item": "Zweihander",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Ceremonial Bow": [
+        },
         {
+            "Item": "Ceremonial Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Grand Matron Bow": [
+        },
         {
+            "Item": "Grand Matron Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Reflex Bow": [
+        },
         {
+            "Item": "Reflex Bow",
             "25": 3,
             "40": 4,
             "41": 5
-        }
-    ],
-    "Balista": [
+        },
         {
+            "Item": "Balista",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Bec-de-Corbin": [
+        },
         {
+            "Item": "Bec-de-Corbin",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Ceremonial Pike": [
+        },
         {
+            "Item": "Ceremonial Pike",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Ceremonial Spear": [
+        },
         {
+            "Item": "Ceremonial Spear",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Colossus Blade": [
+        },
         {
+            "Item": "Colossus Blade",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Colossus Crossbow": [
+        },
         {
+            "Item": "Colossus Crossbow",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Crusader Bow": [
+        },
         {
+            "Item": "Crusader Bow",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Crystal Sword": [
+        },
         {
+            "Item": "Crystal Sword",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Dimensional Blade": [
+        },
         {
+            "Item": "Dimensional Blade",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Executioner Sword": [
+        },
         {
+            "Item": "Executioner Sword",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Ghost Spear": [
+        },
         {
+            "Item": "Ghost Spear",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Giant Thresher": [
+        },
         {
+            "Item": "Giant Thresher",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Gothic Bow": [
+        },
         {
+            "Item": "Gothic Bow",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Great Maul": [
+        },
         {
+            "Item": "Great Maul",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Great Poleaxe": [
+        },
         {
+            "Item": "Great Poleaxe",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Great Sword": [
+        },
         {
+            "Item": "Great Sword",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Grim Scythe": [
+        },
         {
+            "Item": "Grim Scythe",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Halberd": [
+        },
         {
+            "Item": "Halberd",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Heavy Crossbow": [
+        },
         {
+            "Item": "Heavy Crossbow",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Hydra Bow": [
+        },
         {
+            "Item": "Hydra Bow",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Lance": [
+        },
         {
+            "Item": "Lance",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Long Battle Bow": [
+        },
         {
+            "Item": "Long Battle Bow",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Long Siege Bow": [
+        },
         {
+            "Item": "Long Siege Bow",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Long War Bow": [
+        },
         {
+            "Item": "Long War Bow",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Maiden Pike": [
+        },
         {
+            "Item": "Maiden Pike",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Maiden Spear": [
+        },
         {
+            "Item": "Maiden Spear",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Martel de Fer": [
+        },
         {
+            "Item": "Martel de Fer",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Matriarchal Pike": [
+        },
         {
+            "Item": "Matriarchal Pike",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Matriarchal Spear": [
+        },
         {
+            "Item": "Matriarchal Spear",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Maul": [
+        },
         {
+            "Item": "Maul",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Ogre Maul": [
+        },
         {
+            "Item": "Ogre Maul",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Phase Blade": [
+        },
         {
+            "Item": "Phase Blade",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Pike": [
+        },
         {
+            "Item": "Pike",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Spetum": [
+        },
         {
+            "Item": "Spetum",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Thunder Maul": [
+        },
         {
+            "Item": "Thunder Maul",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "War Club": [
+        },
         {
+            "Item": "War Club",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "War Pike": [
+        },
         {
+            "Item": "War Pike",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "War Scythe": [
+        },
         {
+            "Item": "War Scythe",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Yari": [
+        },
         {
+            "Item": "Yari",
             "25": 3,
             "40": 4,
             "41": 6
-        }
-    ],
-    "Caduceus": [
+        },
         {
+            "Item": "Caduceus",
             "25": 3,
             "40": 5,
             "41": 5
-        }
-    ],
-    "Divine Scepter": [
+        },
         {
+            "Item": "Divine Scepter",
             "25": 3,
             "40": 5,
             "41": 5
-        }
-    ],
-    "War Scepter": [
+        },
         {
+            "Item": "War Scepter",
             "25": 3,
             "40": 5,
             "41": 5
-        }
-    ],
-    "Axe": [
+        },
         {
+            "Item": "Axe",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Battle Staff": [
+        },
         {
+            "Item": "Battle Staff",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Cedar Staff": [
+        },
         {
+            "Item": "Cedar Staff",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Cleaver": [
+        },
         {
+            "Item": "Cleaver",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Elder Staff": [
+        },
         {
+            "Item": "Elder Staff",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Feral Axe": [
+        },
         {
+            "Item": "Feral Axe",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Gnarled Staff": [
+        },
         {
+            "Item": "Gnarled Staff",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Gothic Staff": [
+        },
         {
+            "Item": "Gothic Staff",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Large Axe": [
+        },
         {
+            "Item": "Large Axe",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Military Axe": [
+        },
         {
+            "Item": "Military Axe",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Shillelah": [
+        },
         {
+            "Item": "Shillelah",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Small Crescent": [
+        },
         {
+            "Item": "Small Crescent",
             "25": 4,
             "40": 4,
             "41": 4
-        }
-    ],
-    "Battle Axe": [
+        },
         {
+            "Item": "Battle Axe",
             "25": 4,
             "40": 5,
             "41": 5
-        }
-    ],
-    "Bearded Axe": [
+        },
         {
+            "Item": "Bearded Axe",
             "25": 4,
             "40": 5,
             "41": 5
-        }
-    ],
-    "Broad Axe": [
+        },
         {
+            "Item": "Broad Axe",
             "25": 4,
             "40": 5,
             "41": 5
-        }
-    ],
-    "Decapitator": [
+        },
         {
+            "Item": "Decapitator",
             "25": 4,
             "40": 5,
             "41": 5
-        }
-    ],
-    "Double Axe": [
+        },
         {
+            "Item": "Double Axe",
             "25": 4,
             "40": 5,
             "41": 5
-        }
-    ],
-    "Ettin Axe": [
+        },
         {
+            "Item": "Ettin Axe",
             "25": 4,
             "40": 5,
             "41": 5
-        }
-    ],
-    "Silver Edged Axe": [
+        },
         {
+            "Item": "Silver Edged Axe",
             "25": 4,
             "40": 5,
             "41": 5
-        }
-    ],
-    "Tabar": [
+        },
         {
+            "Item": "Tabar",
             "25": 4,
             "40": 5,
             "41": 5
-        }
-    ],
-    "Twin Axe": [
+        },
         {
+            "Item": "Twin Axe",
             "25": 4,
             "40": 5,
             "41": 5
-        }
-    ],
-    "Ancient Axe": [
+        },
         {
+            "Item": "Ancient Axe",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "Berserker Axe": [
+        },
         {
+            "Item": "Berserker Axe",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "Champion Axe": [
+        },
         {
+            "Item": "Champion Axe",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "Crowbill": [
+        },
         {
+            "Item": "Crowbill",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "Giant Axe": [
+        },
         {
+            "Item": "Giant Axe",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "Glorious Axe": [
+        },
         {
+            "Item": "Glorious Axe",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "Gothic Axe": [
+        },
         {
+            "Item": "Gothic Axe",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "Great Axe": [
+        },
         {
+            "Item": "Great Axe",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "Military Pick": [
+        },
         {
+            "Item": "Military Pick",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "Naga": [
+        },
         {
+            "Item": "Naga",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "War Axe": [
+        },
         {
+            "Item": "War Axe",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "War Spike": [
+        },
         {
+            "Item": "War Spike",
             "25": 4,
             "40": 5,
             "41": 6
-        }
-    ],
-    "Archon Staff": [
+        },
         {
+            "Item": "Archon Staff",
             "25": 5,
             "40": 6,
             "41": 6
-        }
-    ],
-    "Rune Staff": [
+        },
         {
+            "Item": "Rune Staff",
             "25": 5,
             "40": 6,
             "41": 6
-        }
-    ],
-    "War Staff": [
+        },
         {
+            "Item": "War Staff",
             "25": 5,
             "40": 6,
             "41": 6
