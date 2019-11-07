@@ -1,0 +1,1965 @@
+{
+    {
+        "3": {
+            "axe": {
+                "Hand Axe": {
+                    "name": "Hand Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "scep": {
+                "Scepter": {
+                    "name": "Scepter",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "knif": {
+                "Dagger": {
+                    "name": "Dagger",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "7": {
+            "axe": {
+                "Axe": {
+                    "name": "Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "13": {
+            "axe": {
+                "Double Axe": {
+                    "name": "Double Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "mace": {
+                "Morning Star": {
+                    "name": "Morning Star",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "19": {
+            "axe": {
+                "Military Pick": {
+                    "name": "Military Pick",
+                    "reqstr": 33,
+                    "reqdex": 33
+                }
+            },
+            "mace": {
+                "Flail": {
+                    "name": "Flail",
+                    "reqstr": 35,
+                    "reqdex": 35
+                }
+            }
+        },
+        "25": {
+            "axe": {
+                "War Axe": {
+                    "name": "War Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "hamm": {
+                "War Hammer": {
+                    "name": "War Hammer",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "6": {
+            "axe": {
+                "Large Axe": {
+                    "name": "Large Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "xbow": {
+                "Light Crossbow": {
+                    "name": "Light Crossbow",
+                    "reqstr": 27,
+                    "reqdex": 27
+                }
+            }
+        },
+        "12": {
+            "axe": {
+                "Broad Axe ": {
+                    "name": "Broad Axe ",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "wand": {
+                "Yew Wand": {
+                    "name": "Yew Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "staf": {
+                "Gnarled Staff": {
+                    "name": "Gnarled Staff",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "bow": {
+                "Composite Bow": {
+                    "name": "Composite Bow",
+                    "reqstr": 35,
+                    "reqdex": 35
+                }
+            },
+            "h2h": {
+                "Hatchet Hands": {
+                    "name": "Hatchet Hands",
+                    "reqstr": 37,
+                    "reqdex": 37
+                }
+            },
+            "orb": {
+                "Smoked Sphere": {
+                    "name": "Smoked Sphere",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "17": {
+            "axe": {
+                "Battle Axe": {
+                    "name": "Battle Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Claymore": {
+                    "name": "Claymore",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "knif": {
+                "Kriss": {
+                    "name": "Kriss",
+                    "reqstr": 45,
+                    "reqdex": 45
+                }
+            },
+            "staf": {
+                "Battle Staff": {
+                    "name": "Battle Staff",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "orb": {
+                "Clasped Orb": {
+                    "name": "Clasped Orb",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "23": {
+            "axe": {
+                "Great Axe": {
+                    "name": "Great Axe",
+                    "reqstr": 39,
+                    "reqdex": 39
+                }
+            },
+            "knif": {
+                "Blade": {
+                    "name": "Blade",
+                    "reqstr": 51,
+                    "reqdex": 51
+                }
+            },
+            "bow": {
+                "Long Battle Bow": {
+                    "name": "Long Battle Bow",
+                    "reqstr": 50,
+                    "reqdex": 50
+                }
+            }
+        },
+        "27": {
+            "axe": {
+                "Giant Axe": {
+                    "name": "Giant Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Flamberge": {
+                    "name": "Flamberge",
+                    "reqstr": 49,
+                    "reqdex": 49
+                }
+            },
+            "bow": {
+                "Short War Bow": {
+                    "name": "Short War Bow",
+                    "reqstr": 55,
+                    "reqdex": 55
+                }
+            },
+            "abow": {
+                "Reflex Bow": {
+                    "name": "Reflex Bow",
+                    "reqstr": 60,
+                    "reqdex": 60
+                }
+            },
+            "aspe": {
+                "Maiden Pike": {
+                    "name": "Maiden Pike",
+                    "reqstr": 52,
+                    "reqdex": 52
+                }
+            }
+        },
+        "2": {
+            "wand": {
+                "Wand": {
+                    "name": "Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "18": {
+            "wand": {
+                "Bone Wand": {
+                    "name": "Bone Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "bow": {
+                "Short Battle Bow": {
+                    "name": "Short Battle Bow",
+                    "reqstr": 40,
+                    "reqdex": 40
+                }
+            },
+            "h2h": {
+                "Claws": {
+                    "name": "Claws",
+                    "reqstr": 46,
+                    "reqdex": 46
+                }
+            },
+            "abow": {
+                "Stag Bow": {
+                    "name": "Stag Bow",
+                    "reqstr": 45,
+                    "reqdex": 45
+                }
+            },
+            "aspe": {
+                "Maiden Spear": {
+                    "name": "Maiden Spear",
+                    "reqstr": 40,
+                    "reqdex": 40
+                }
+            }
+        },
+        "26": {
+            "wand": {
+                "Grim Wand": {
+                    "name": "Grim Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "1": {
+            "club": {
+                "Club": {
+                    "name": "Club",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Short Sword": {
+                    "name": "Short Sword",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "staf": {
+                "Short Staff": {
+                    "name": "Short Staff",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "bow": {
+                "Short Bow": {
+                    "name": "Short Bow",
+                    "reqstr": 15,
+                    "reqdex": 15
+                }
+            },
+            "h2h": {
+                "Katar": {
+                    "name": "Katar",
+                    "reqstr": 20,
+                    "reqdex": 20
+                }
+            },
+            "orb": {
+                "Eagle Orb": {
+                    "name": "Eagle Orb",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "15": {
+            "scep": {
+                "Grand Scepter": {
+                    "name": "Grand Scepter",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Broad Sword": {
+                    "name": "Broad Sword",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "pole": {
+                "Scythe": {
+                    "name": "Scythe",
+                    "reqstr": 41,
+                    "reqdex": 41
+                }
+            },
+            "xbow": {
+                "Crossbow": {
+                    "name": "Crossbow",
+                    "reqstr": 33,
+                    "reqdex": 33
+                }
+            },
+            "h2h": {
+                "Cestus": {
+                    "name": "Cestus",
+                    "reqstr": 42,
+                    "reqdex": 42
+                }
+            }
+        },
+        "21": {
+            "scep": {
+                "War Scepter": {
+                    "name": "War Scepter",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "hamm": {
+                "Maul": {
+                    "name": "Maul",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Giant Sword": {
+                    "name": "Giant Sword",
+                    "reqstr": 34,
+                    "reqdex": 34
+                }
+            },
+            "pole": {
+                "Poleaxe": {
+                    "name": "Poleaxe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "h2h": {
+                "Blade Talons": {
+                    "name": "Blade Talons",
+                    "reqstr": 50,
+                    "reqdex": 50
+                }
+            }
+        },
+        "4": {
+            "club": {
+                "Spiked Club": {
+                    "name": "Spiked Club",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "8": {
+            "mace": {
+                "Mace": {
+                    "name": "Mace",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Saber": {
+                    "name": "Saber",
+                    "reqstr": 25,
+                    "reqdex": 25
+                }
+            },
+            "staf": {
+                "Long Staff": {
+                    "name": "Long Staff",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "bow": {
+                "Long Bow": {
+                    "name": "Long Bow",
+                    "reqstr": 19,
+                    "reqdex": 19
+                }
+            },
+            "orb": {
+                "Sacred Globe": {
+                    "name": "Sacred Globe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "32": {
+            "hamm": {
+                "Great Maul": {
+                    "name": "Great Maul",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "club": {
+                "Barbed Club": {
+                    "name": "Barbed Club",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "h2h": {
+                "Wrist Spike": {
+                    "name": "Wrist Spike",
+                    "reqstr": 66,
+                    "reqdex": 66
+                }
+            },
+            "orb": {
+                "Glowing Orb": {
+                    "name": "Glowing Orb",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "5": {
+            "swor": {
+                "Scimitar": {
+                    "name": "Scimitar",
+                    "reqstr": 21,
+                    "reqdex": 21
+                }
+            },
+            "spea": {
+                "Spear": {
+                    "name": "Spear",
+                    "reqstr": 20,
+                    "reqdex": 20
+                }
+            },
+            "pole": {
+                "Bardiche": {
+                    "name": "Bardiche",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "bow": {
+                "Hunter's Bow": {
+                    "name": "Hunter's Bow",
+                    "reqstr": 28,
+                    "reqdex": 28
+                }
+            }
+        },
+        "11": {
+            "swor": {
+                "Crystal Sword": {
+                    "name": "Crystal Sword",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "pole": {
+                "Voulge": {
+                    "name": "Voulge",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "20": {
+            "swor": {
+                "Long Sword ": {
+                    "name": "Long Sword ",
+                    "reqstr": 39,
+                    "reqdex": 39
+                }
+            },
+            "spea": {
+                "Spetum": {
+                    "name": "Spetum",
+                    "reqstr": 35,
+                    "reqdex": 35
+                }
+            }
+        },
+        "10": {
+            "swor": {
+                "Two-Handed Sword": {
+                    "name": "Two-Handed Sword",
+                    "reqstr": 27,
+                    "reqdex": 27
+                }
+            }
+        },
+        "24": {
+            "swor": {
+                "Bastard Sword": {
+                    "name": "Bastard Sword",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "spea": {
+                "Pike": {
+                    "name": "Pike",
+                    "reqstr": 45,
+                    "reqdex": 45
+                }
+            },
+            "staf": {
+                "War Staff": {
+                    "name": "War Staff",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "xbow": {
+                "Heavy Crossbow": {
+                    "name": "Heavy Crossbow",
+                    "reqstr": 40,
+                    "reqdex": 40
+                }
+            },
+            "h2h": {
+                "Scissors Katar": {
+                    "name": "Scissors Katar",
+                    "reqstr": 55,
+                    "reqdex": 55
+                }
+            },
+            "orb": {
+                "Dragon Stone": {
+                    "name": "Dragon Stone",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "33": {
+            "swor": {
+                "Great Sword": {
+                    "name": "Great Sword",
+                    "reqstr": 60,
+                    "reqdex": 60
+                }
+            },
+            "xbow": {
+                "Repeating Crossbow": {
+                    "name": "Repeating Crossbow",
+                    "reqstr": 50,
+                    "reqdex": 50
+                }
+            },
+            "spea": {
+                "War Spear": {
+                    "name": "War Spear",
+                    "reqstr": 25,
+                    "reqdex": 25
+                }
+            },
+            "pole": {
+                "Lochaber Axe": {
+                    "name": "Lochaber Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "bow": {
+                "Razor Bow": {
+                    "name": "Razor Bow",
+                    "reqstr": 62,
+                    "reqdex": 62
+                }
+            }
+        },
+        "9": {
+            "knif": {
+                "Dirk": {
+                    "name": "Dirk",
+                    "reqstr": 25,
+                    "reqdex": 25
+                }
+            },
+            "spea": {
+                "Trident": {
+                    "name": "Trident",
+                    "reqstr": 24,
+                    "reqdex": 24
+                }
+            },
+            "h2h": {
+                "Wrist Blade": {
+                    "name": "Wrist Blade",
+                    "reqstr": 33,
+                    "reqdex": 33
+                }
+            }
+        },
+        "16": {
+            "spea": {
+                "Brandistock": {
+                    "name": "Brandistock",
+                    "reqstr": 50,
+                    "reqdex": 50
+                }
+            }
+        },
+        "29": {
+            "pole": {
+                "Halberd": {
+                    "name": "Halberd",
+                    "reqstr": 47,
+                    "reqdex": 47
+                }
+            }
+        },
+        "34": {
+            "pole": {
+                "War Scythe": {
+                    "name": "War Scythe",
+                    "reqstr": 80,
+                    "reqdex": 80
+                }
+            },
+            "axe": {
+                "Military Axe": {
+                    "name": "Military Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "xbow": {
+                "Arbalest": {
+                    "name": "Arbalest",
+                    "reqstr": 61,
+                    "reqdex": 61
+                }
+            }
+        },
+        "31": {
+            "bow": {
+                "Long War Bow": {
+                    "name": "Long War Bow",
+                    "reqstr": 65,
+                    "reqdex": 65
+                }
+            },
+            "axe": {
+                "Hatchet": {
+                    "name": "Hatchet",
+                    "reqstr": 25,
+                    "reqdex": 25
+                }
+            },
+            "wand": {
+                "Burnt Wand": {
+                    "name": "Burnt Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "scep": {
+                "Rune Scepter": {
+                    "name": "Rune Scepter",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "knif": {
+                "Poignard": {
+                    "name": "Poignard",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "0": {
+            "club": {
+                "Wirt's Leg": {
+                    "name": "Wirt's Leg",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "hamm": {
+                "Hellforge Hammer": {
+                    "name": "Hellforge Hammer",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "mace": {
+                "SuperKhalimFlail": {
+                    "name": "SuperKhalimFlail",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "39": {
+            "axe": {
+                "Twin Axe": {
+                    "name": "Twin Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "mace": {
+                "Jagged Star": {
+                    "name": "Jagged Star",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "bow": {
+                "Double Bow": {
+                    "name": "Double Bow",
+                    "reqstr": 73,
+                    "reqdex": 73
+                }
+            },
+            "abow": {
+                "Ashwood Bow": {
+                    "name": "Ashwood Bow",
+                    "reqstr": 77,
+                    "reqdex": 77
+                }
+            }
+        },
+        "43": {
+            "axe": {
+                "Crowbill": {
+                    "name": "Crowbill",
+                    "reqstr": 70,
+                    "reqdex": 70
+                }
+            },
+            "wand": {
+                "Tomb Wand": {
+                    "name": "Tomb Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "mace": {
+                "Knout": {
+                    "name": "Knout",
+                    "reqstr": 73,
+                    "reqdex": 73
+                }
+            },
+            "swor": {
+                "Cutlass": {
+                    "name": "Cutlass",
+                    "reqstr": 52,
+                    "reqdex": 52
+                }
+            },
+            "bow": {
+                "Short Siege Bow": {
+                    "name": "Short Siege Bow",
+                    "reqstr": 80,
+                    "reqdex": 80
+                }
+            },
+            "aspe": {
+                "Ceremonial Spear": {
+                    "name": "Ceremonial Spear",
+                    "reqstr": 80,
+                    "reqdex": 80
+                }
+            }
+        },
+        "48": {
+            "axe": {
+                "Naga": {
+                    "name": "Naga",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "hamm": {
+                "Battle Hammer": {
+                    "name": "Battle Hammer",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Gothic Sword": {
+                    "name": "Gothic Sword",
+                    "reqstr": 20,
+                    "reqdex": 20
+                }
+            }
+        },
+        "38": {
+            "axe": {
+                "Bearded Axe ": {
+                    "name": "Bearded Axe ",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "wand": {
+                "Petrified Wand": {
+                    "name": "Petrified Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "staf": {
+                "Cedar Staff": {
+                    "name": "Cedar Staff",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "42": {
+            "axe": {
+                "Tabar": {
+                    "name": "Tabar",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Dacian Falx": {
+                    "name": "Dacian Falx",
+                    "reqstr": 20,
+                    "reqdex": 20
+                }
+            },
+            "knif": {
+                "Cinquedeas": {
+                    "name": "Cinquedeas",
+                    "reqstr": 88,
+                    "reqdex": 88
+                }
+            },
+            "staf": {
+                "Gothic Staff": {
+                    "name": "Gothic Staff",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "46": {
+            "axe": {
+                "Gothic Axe": {
+                    "name": "Gothic Axe",
+                    "reqstr": 79,
+                    "reqdex": 79
+                }
+            },
+            "knif": {
+                "Stilleto": {
+                    "name": "Stilleto",
+                    "reqstr": 97,
+                    "reqdex": 97
+                }
+            },
+            "bow": {
+                "Long Siege Bow": {
+                    "name": "Long Siege Bow",
+                    "reqstr": 95,
+                    "reqdex": 95
+                }
+            },
+            "orb": {
+                "Sparkling Ball": {
+                    "name": "Sparkling Ball",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "51": {
+            "axe": {
+                "Ancient Axe": {
+                    "name": "Ancient Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "pole": {
+                "Bec-de-Corbin": {
+                    "name": "Bec-de-Corbin",
+                    "reqstr": 91,
+                    "reqdex": 91
+                }
+            },
+            "aspe": {
+                "Ceremonial Pike": {
+                    "name": "Ceremonial Pike",
+                    "reqstr": 98,
+                    "reqdex": 98
+                }
+            }
+        },
+        "49": {
+            "wand": {
+                "Grave Wand": {
+                    "name": "Grave Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Zweihander": {
+                    "name": "Zweihander",
+                    "reqstr": 94,
+                    "reqdex": 94
+                }
+            },
+            "bow": {
+                "Rune Bow": {
+                    "name": "Rune Bow",
+                    "reqstr": 103,
+                    "reqdex": 103
+                }
+            }
+        },
+        "30": {
+            "club": {
+                "Cudgel": {
+                    "name": "Cudgel",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Gladius": {
+                    "name": "Gladius",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "staf": {
+                "Jo Staff": {
+                    "name": "Jo Staff",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "bow": {
+                "Edge Bow": {
+                    "name": "Edge Bow",
+                    "reqstr": 43,
+                    "reqdex": 43
+                }
+            }
+        },
+        "40": {
+            "scep": {
+                "Holy Water Sprinkler": {
+                    "name": "Holy Water Sprinkler",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Battle Sword": {
+                    "name": "Battle Sword",
+                    "reqstr": 43,
+                    "reqdex": 43
+                }
+            },
+            "pole": {
+                "Battle Scythe": {
+                    "name": "Battle Scythe",
+                    "reqstr": 82,
+                    "reqdex": 82
+                }
+            },
+            "xbow": {
+                "Siege Crossbow": {
+                    "name": "Siege Crossbow",
+                    "reqstr": 70,
+                    "reqdex": 70
+                }
+            }
+        },
+        "45": {
+            "scep": {
+                "Divine Scepter": {
+                    "name": "Divine Scepter",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "hamm": {
+                "War Club": {
+                    "name": "War Club",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Tusk Sword": {
+                    "name": "Tusk Sword",
+                    "reqstr": 71,
+                    "reqdex": 71
+                }
+            },
+            "h2h2": {
+                "Greater Claws": {
+                    "name": "Greater Claws",
+                    "reqstr": 76,
+                    "reqdex": 76
+                }
+            }
+        },
+        "35": {
+            "mace": {
+                "Flanged Mace": {
+                    "name": "Flanged Mace",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Shamshir": {
+                    "name": "Shamshir",
+                    "reqstr": 58,
+                    "reqdex": 58
+                }
+            },
+            "pole": {
+                "Partizan": {
+                    "name": "Partizan",
+                    "reqstr": 67,
+                    "reqdex": 67
+                }
+            },
+            "staf": {
+                "Quarterstaff": {
+                    "name": "Quarterstaff",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "bow": {
+                "Cedar Bow": {
+                    "name": "Cedar Bow",
+                    "reqstr": 49,
+                    "reqdex": 49
+                }
+            }
+        },
+        "53": {
+            "hamm": {
+                "Martel de Fer": {
+                    "name": "Martel de Fer",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "abow": {
+                "Matriarchal Bow": {
+                    "name": "Matriarchal Bow",
+                    "reqstr": 187,
+                    "reqdex": 187
+                }
+            }
+        },
+        "37": {
+            "swor": {
+                "Espadon": {
+                    "name": "Espadon",
+                    "reqstr": 61,
+                    "reqdex": 61
+                }
+            },
+            "pole": {
+                "Bill": {
+                    "name": "Bill",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "orb": {
+                "Crystalline Globe": {
+                    "name": "Crystalline Globe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "44": {
+            "swor": {
+                "Rune Sword": {
+                    "name": "Rune Sword",
+                    "reqstr": 79,
+                    "reqdex": 79
+                }
+            },
+            "spea": {
+                "Yari": {
+                    "name": "Yari",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "54": {
+            "swor": {
+                "Executioner Sword": {
+                    "name": "Executioner Sword",
+                    "reqstr": 110,
+                    "reqdex": 110
+                }
+            },
+            "xbow": {
+                "Chu-Ko-Nu": {
+                    "name": "Chu-Ko-Nu",
+                    "reqstr": 95,
+                    "reqdex": 95
+                }
+            },
+            "h2h2": {
+                "Scissors Quhab": {
+                    "name": "Scissors Quhab",
+                    "reqstr": 82,
+                    "reqdex": 82
+                }
+            },
+            "axe": {
+                "Tomahawk": {
+                    "name": "Tomahawk",
+                    "reqstr": 67,
+                    "reqdex": 67
+                }
+            }
+        },
+        "36": {
+            "knif": {
+                "Rondel": {
+                    "name": "Rondel",
+                    "reqstr": 58,
+                    "reqdex": 58
+                }
+            },
+            "spea": {
+                "Fuscina": {
+                    "name": "Fuscina",
+                    "reqstr": 25,
+                    "reqdex": 25
+                }
+            },
+            "h2h": {
+                "Fascia": {
+                    "name": "Fascia",
+                    "reqstr": 69,
+                    "reqdex": 69
+                }
+            }
+        },
+        "41": {
+            "spea": {
+                "War Fork": {
+                    "name": "War Fork",
+                    "reqstr": 95,
+                    "reqdex": 95
+                }
+            },
+            "h2h2": {
+                "Hand Scythe": {
+                    "name": "Hand Scythe",
+                    "reqstr": 73,
+                    "reqdex": 73
+                }
+            },
+            "orb": {
+                "Cloudy Sphere": {
+                    "name": "Cloudy Sphere",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "47": {
+            "spea": {
+                "Lance": {
+                    "name": "Lance",
+                    "reqstr": 88,
+                    "reqdex": 88
+                }
+            },
+            "staf": {
+                "Rune Staff": {
+                    "name": "Rune Staff",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "xbow": {
+                "Balista": {
+                    "name": "Balista",
+                    "reqstr": 80,
+                    "reqdex": 80
+                }
+            },
+            "abow": {
+                "Ceremonial Bow": {
+                    "name": "Ceremonial Bow",
+                    "reqstr": 110,
+                    "reqdex": 110
+                }
+            }
+        },
+        "55": {
+            "pole": {
+                "Grim Scythe": {
+                    "name": "Grim Scythe",
+                    "reqstr": 140,
+                    "reqdex": 140
+                }
+            },
+            "wand": {
+                "Polished Wand": {
+                    "name": "Polished Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "bow": {
+                "Spider Bow": {
+                    "name": "Spider Bow",
+                    "reqstr": 143,
+                    "reqdex": 143
+                }
+            }
+        },
+        "52": {
+            "bow": {
+                "Gothic Bow": {
+                    "name": "Gothic Bow",
+                    "reqstr": 118,
+                    "reqdex": 118
+                }
+            },
+            "club": {
+                "Truncheon": {
+                    "name": "Truncheon",
+                    "reqstr": 43,
+                    "reqdex": 43
+                }
+            }
+        },
+        "28": {
+            "h2h": {
+                "Quhab": {
+                    "name": "Quhab",
+                    "reqstr": 57,
+                    "reqdex": 57
+                }
+            }
+        },
+        "50": {
+            "h2h2": {
+                "Greater Talons": {
+                    "name": "Greater Talons",
+                    "reqstr": 79,
+                    "reqdex": 79
+                }
+            },
+            "orb": {
+                "Swirling Crystal": {
+                    "name": "Swirling Crystal",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "59": {
+            "h2h2": {
+                "Suwayyah": {
+                    "name": "Suwayyah",
+                    "reqstr": 99,
+                    "reqdex": 99
+                }
+            },
+            "swor": {
+                "Legend Sword": {
+                    "name": "Legend Sword",
+                    "reqstr": 100,
+                    "reqdex": 100
+                }
+            },
+            "orb": {
+                "Heavenly Stone": {
+                    "name": "Heavenly Stone",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "62": {
+            "h2h2": {
+                "Wrist Sword": {
+                    "name": "Wrist Sword",
+                    "reqstr": 105,
+                    "reqdex": 105
+                }
+            },
+            "scep": {
+                "Mighty Scepter": {
+                    "name": "Mighty Scepter",
+                    "reqstr": 65,
+                    "reqdex": 65
+                }
+            }
+        },
+        "68": {
+            "h2h2": {
+                "War Fist": {
+                    "name": "War Fist",
+                    "reqstr": 108,
+                    "reqdex": 108
+                }
+            },
+            "bow": {
+                "Great Bow": {
+                    "name": "Great Bow",
+                    "reqstr": 107,
+                    "reqdex": 107
+                }
+            }
+        },
+        "73": {
+            "h2h2": {
+                "Battle Cestus": {
+                    "name": "Battle Cestus",
+                    "reqstr": 110,
+                    "reqdex": 110
+                }
+            },
+            "axe": {
+                "Decapitator": {
+                    "name": "Decapitator",
+                    "reqstr": 33,
+                    "reqdex": 33
+                }
+            },
+            "swor": {
+                "Phase Blade": {
+                    "name": "Phase Blade",
+                    "reqstr": 136,
+                    "reqdex": 136
+                }
+            }
+        },
+        "78": {
+            "h2h2": {
+                "Feral Claws": {
+                    "name": "Feral Claws",
+                    "reqstr": 113,
+                    "reqdex": 113
+                }
+            },
+            "swor": {
+                "Conquest Sword": {
+                    "name": "Conquest Sword",
+                    "reqstr": 112,
+                    "reqdex": 112
+                }
+            },
+            "abow": {
+                "Grand Matron Bow": {
+                    "name": "Grand Matron Bow",
+                    "reqstr": 152,
+                    "reqdex": 152
+                }
+            }
+        },
+        "81": {
+            "h2h2": {
+                "Runic Talons": {
+                    "name": "Runic Talons",
+                    "reqstr": 115,
+                    "reqdex": 115
+                }
+            },
+            "aspe": {
+                "Matriarchal Pike": {
+                    "name": "Matriarchal Pike",
+                    "reqstr": 149,
+                    "reqdex": 149
+                }
+            }
+        },
+        "85": {
+            "h2h2": {
+                "Scissors Suwayyah": {
+                    "name": "Scissors Suwayyah",
+                    "reqstr": 118,
+                    "reqdex": 118
+                }
+            },
+            "axe": {
+                "Glorious Axe": {
+                    "name": "Glorious Axe",
+                    "reqstr": 55,
+                    "reqdex": 55
+                }
+            },
+            "scep": {
+                "Caduceus": {
+                    "name": "Caduceus",
+                    "reqstr": 70,
+                    "reqdex": 70
+                }
+            },
+            "hamm": {
+                "Thunder Maul": {
+                    "name": "Thunder Maul",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Colossus Blade": {
+                    "name": "Colossus Blade",
+                    "reqstr": 110,
+                    "reqdex": 110
+                }
+            },
+            "knif": {
+                "Legend Spike": {
+                    "name": "Legend Spike",
+                    "reqstr": 67,
+                    "reqdex": 67
+                }
+            },
+            "spea": {
+                "War Pike": {
+                    "name": "War Pike",
+                    "reqstr": 106,
+                    "reqdex": 106
+                }
+            },
+            "pole": {
+                "Giant Thresher": {
+                    "name": "Giant Thresher",
+                    "reqstr": 140,
+                    "reqdex": 140
+                }
+            },
+            "staf": {
+                "Archon Staff": {
+                    "name": "Archon Staff",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "bow": {
+                "Hydra Bow": {
+                    "name": "Hydra Bow",
+                    "reqstr": 167,
+                    "reqdex": 167
+                }
+            },
+            "orb": {
+                "Dimensional Shard": {
+                    "name": "Dimensional Shard",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "61": {
+            "axe": {
+                "Small Crescent": {
+                    "name": "Small Crescent",
+                    "reqstr": 83,
+                    "reqdex": 83
+                }
+            },
+            "swor": {
+                "Ataghan": {
+                    "name": "Ataghan",
+                    "reqstr": 95,
+                    "reqdex": 95
+                }
+            },
+            "aspe": {
+                "Matriarchal Spear": {
+                    "name": "Matriarchal Spear",
+                    "reqstr": 142,
+                    "reqdex": 142
+                }
+            }
+        },
+        "70": {
+            "axe": {
+                "Ettin Axe": {
+                    "name": "Ettin Axe",
+                    "reqstr": 45,
+                    "reqdex": 45
+                }
+            },
+            "mace": {
+                "Devil Star": {
+                    "name": "Devil Star",
+                    "reqstr": 44,
+                    "reqdex": 44
+                }
+            },
+            "knif": {
+                "Mithral Point": {
+                    "name": "Mithral Point",
+                    "reqstr": 98,
+                    "reqdex": 98
+                }
+            }
+        },
+        "79": {
+            "axe": {
+                "War Spike": {
+                    "name": "War Spike",
+                    "reqstr": 54,
+                    "reqdex": 54
+                }
+            },
+            "pole": {
+                "Cryptic Axe": {
+                    "name": "Cryptic Axe",
+                    "reqstr": 103,
+                    "reqdex": 103
+                }
+            }
+        },
+        "57": {
+            "axe": {
+                "Feral Axe": {
+                    "name": "Feral Axe",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "club": {
+                "Tyrant Club": {
+                    "name": "Tyrant Club",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "xbow": {
+                "Pellet Bow": {
+                    "name": "Pellet Bow",
+                    "reqstr": 155,
+                    "reqdex": 155
+                }
+            }
+        },
+        "65": {
+            "axe": {
+                "Silver Edged Axe": {
+                    "name": "Silver Edged Axe",
+                    "reqstr": 65,
+                    "reqdex": 65
+                }
+            },
+            "wand": {
+                "Ghost Wand": {
+                    "name": "Ghost Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "82": {
+            "axe": {
+                "Champion Axe": {
+                    "name": "Champion Axe",
+                    "reqstr": 59,
+                    "reqdex": 59
+                }
+            },
+            "hamm": {
+                "Legendary Mallet": {
+                    "name": "Legendary Mallet",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Cryptic Sword": {
+                    "name": "Cryptic Sword",
+                    "reqstr": 109,
+                    "reqdex": 109
+                }
+            }
+        },
+        "75": {
+            "wand": {
+                "Lich Wand": {
+                    "name": "Lich Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "xbow": {
+                "Colossus Crossbow": {
+                    "name": "Colossus Crossbow",
+                    "reqstr": 77,
+                    "reqdex": 77
+                }
+            },
+            "orb": {
+                "Demon Heart": {
+                    "name": "Demon Heart",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "86": {
+            "wand": {
+                "Unearthed Wand": {
+                    "name": "Unearthed Wand",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "76": {
+            "scep": {
+                "Seraph Rod": {
+                    "name": "Seraph Rod",
+                    "reqstr": 69,
+                    "reqdex": 69
+                }
+            },
+            "mace": {
+                "Scourge": {
+                    "name": "Scourge",
+                    "reqstr": 77,
+                    "reqdex": 77
+                }
+            }
+        },
+        "63": {
+            "mace": {
+                "Reinforced Mace": {
+                    "name": "Reinforced Mace",
+                    "reqstr": 46,
+                    "reqdex": 46
+                }
+            },
+            "swor": {
+                "Elegant Blade": {
+                    "name": "Elegant Blade",
+                    "reqstr": 122,
+                    "reqdex": 122
+                }
+            },
+            "bow": {
+                "Shadow Bow": {
+                    "name": "Shadow Bow",
+                    "reqstr": 188,
+                    "reqdex": 188
+                }
+            }
+        },
+        "69": {
+            "hamm": {
+                "Ogre Maul": {
+                    "name": "Ogre Maul",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            },
+            "swor": {
+                "Hydra Edge": {
+                    "name": "Hydra Edge",
+                    "reqstr": 105,
+                    "reqdex": 105
+                }
+            }
+        },
+        "56": {
+            "swor": {
+                "Falcata": {
+                    "name": "Falcata",
+                    "reqstr": 88,
+                    "reqdex": 88
+                }
+            }
+        },
+        "66": {
+            "swor": {
+                "Highland Blade": {
+                    "name": "Highland Blade",
+                    "reqstr": 104,
+                    "reqdex": 104
+                }
+            },
+            "spea": {
+                "Stygian Pike": {
+                    "name": "Stygian Pike",
+                    "reqstr": 97,
+                    "reqdex": 97
+                }
+            },
+            "staf": {
+                "Stalagmite": {
+                    "name": "Stalagmite",
+                    "reqstr": 35,
+                    "reqdex": 35
+                }
+            }
+        },
+        "71": {
+            "swor": {
+                "Balrog Blade": {
+                    "name": "Balrog Blade",
+                    "reqstr": 87,
+                    "reqdex": 87
+                }
+            },
+            "pole": {
+                "Thresher": {
+                    "name": "Thresher",
+                    "reqstr": 118,
+                    "reqdex": 118
+                }
+            }
+        },
+        "77": {
+            "swor": {
+                "Champion Sword": {
+                    "name": "Champion Sword",
+                    "reqstr": 103,
+                    "reqdex": 103
+                }
+            },
+            "bow": {
+                "Crusader Bow": {
+                    "name": "Crusader Bow",
+                    "reqstr": 121,
+                    "reqdex": 121
+                }
+            }
+        },
+        "80": {
+            "swor": {
+                "Colossal Sword": {
+                    "name": "Colossal Sword",
+                    "reqstr": 95,
+                    "reqdex": 95
+                }
+            },
+            "bow": {
+                "Ward Bow": {
+                    "name": "Ward Bow",
+                    "reqstr": 146,
+                    "reqdex": 146
+                }
+            }
+        },
+        "58": {
+            "knif": {
+                "Bone Knife": {
+                    "name": "Bone Knife",
+                    "reqstr": 75,
+                    "reqdex": 75
+                }
+            },
+            "spea": {
+                "Hyperion Spear": {
+                    "name": "Hyperion Spear",
+                    "reqstr": 120,
+                    "reqdex": 120
+                }
+            },
+            "staf": {
+                "Walking Stick": {
+                    "name": "Walking Stick",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "83": {
+            "knif": {
+                "Fanged Knife": {
+                    "name": "Fanged Knife",
+                    "reqstr": 86,
+                    "reqdex": 86
+                }
+            },
+            "spea": {
+                "Ghost Spear": {
+                    "name": "Ghost Spear",
+                    "reqstr": 163,
+                    "reqdex": 163
+                }
+            },
+            "staf": {
+                "Shillelah": {
+                    "name": "Shillelah",
+                    "reqstr": 27,
+                    "reqdex": 27
+                }
+            }
+        },
+        "74": {
+            "spea": {
+                "Mancatcher": {
+                    "name": "Mancatcher",
+                    "reqstr": 134,
+                    "reqdex": 134
+                }
+            },
+            "staf": {
+                "Elder Staff": {
+                    "name": "Elder Staff",
+                    "reqstr": 37,
+                    "reqdex": 37
+                }
+            }
+        },
+        "60": {
+            "pole": {
+                "Ogre Axe": {
+                    "name": "Ogre Axe",
+                    "reqstr": 75,
+                    "reqdex": 75
+                }
+            },
+            "bow": {
+                "Blade Bow": {
+                    "name": "Blade Bow",
+                    "reqstr": 119,
+                    "reqdex": 119
+                }
+            }
+        },
+        "64": {
+            "pole": {
+                "Colossus Voulge": {
+                    "name": "Colossus Voulge",
+                    "reqstr": 55,
+                    "reqdex": 55
+                }
+            }
+        },
+        "84": {
+            "pole": {
+                "Great Poleaxe": {
+                    "name": "Great Poleaxe",
+                    "reqstr": 99,
+                    "reqdex": 99
+                }
+            },
+            "xbow": {
+                "Demon Crossbow": {
+                    "name": "Demon Crossbow",
+                    "reqstr": 98,
+                    "reqdex": 98
+                }
+            },
+            "orb": {
+                "Vortex Orb": {
+                    "name": "Vortex Orb",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        },
+        "72": {
+            "bow": {
+                "Diamond Bow": {
+                    "name": "Diamond Bow",
+                    "reqstr": 132,
+                    "reqdex": 132
+                }
+            }
+        },
+        "67": {
+            "xbow": {
+                "Gorgon Crossbow": {
+                    "name": "Gorgon Crossbow",
+                    "reqstr": 105,
+                    "reqdex": 105
+                }
+            },
+            "orb": {
+                "Eldritch Orb": {
+                    "name": "Eldritch Orb",
+                    "reqstr": 0,
+                    "reqdex": 0
+                }
+            }
+        }
+    }
