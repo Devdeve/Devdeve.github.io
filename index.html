@@ -36,30 +36,36 @@
                     <P>Please select your desired item base</P>
                     <select name="drop_down" id="dropDownItems">
                         <option value="None" selected="Selected">Select </option>
-                        <option value="shie">Shield</option>
-                        <option value="club">Club</option>
-                        <option value="hamm">Hammer</option>
-                        <option value="mace">Mace</option>
-                        <option value="swor">Sword (One handed)</option>
-                        <option value="staf">Staff</option>
-                        <option value="bow">Bow</option>
-                        <option value="h2h">Katar</option>
-                        <option value="orb">Orb</option>
-                        <option value="helm">Helmet</option>
-                        <option value="tors">Body Armour</option>
-                        <option value="axe">Axe</option>
+                        <option value="h2h">Hand to hand</option>
+                        <option value="axe">One handed Axe</option>
+                        <option value="2hbow">Bow</option>
+                        <option value="hamm">1H Hammer</option>
+                        <option value="club">1H Club</option>
+                        <option value="2habow">Amazon Bow</option>
                         <option value="scep">Scepter</option>
-                        <option value="knif">Dagger</option>
-                        <option value="pelt">Pelt</option>
-                        <option value="phlm">Barbarian Helm</option>
-                        <option value="ashd">Paladin Shield</option>
-                        <option value="head">Necromancer Head</option>
-                        <option value="spea">Spear</option>
-                        <option value="pole">Polearm</option>
-                        <option value="xbow">Crossbow</option>
+                        <option value="mace">1H Mace</option>
+                        <option value="2hhamm">2H Hammer</option>
+                        <option value="orb">Orb</option>
+                        <option value="knif">Knife</option>
+                        <option value="2hswor">2H Sword</option>
+                        <option value="2hstaf">Staff</option>
                         <option value="wand">Wand</option>
-                        <option value="aspe">Amazon Spear</option>
-                        <option value="abow">Amazon Bow</option>
+                        <option value="2hpole">Polearm</option>
+                        <option value="2haxe">2H Axe</option>
+                        <option value="swor">1H Sword</option>
+                        <option value="h2h2">Assassin Katar</option>
+                        <option value="2haspe">Amazon Spear</option>
+                        <option value="2hspea">Spear</option>
+                        <option value="2hxbow">Crossbow</option>
+                        <option value="ajav">Amazon Javelin</option>
+                        <option value="helm">Helmet</option>
+                        <option value="phlm">Barbarian Helm</option>
+                        <option value="pelt">Pelt</option>
+                        <option value="shie">Shield</option>
+                        <option value="circ">Circlet</option>
+                        <option value="tors">Body Armour</option>
+                        <option value="head">Head</option>
+                        <option value="ashd">Paladin Shield</option>
                     </select>
                     <br>
                     <button value="Submit" onclick="itemlistcalc()">Submit</button>
@@ -76,7 +82,6 @@
         var zoneLevel = 0
         var dropDownZoneChoice = document.getElementById('dropDownZone').value;
         var difficultyChoice = document.getElementById('difficulty').value;
-        var dropDownItemsChoice = document.getElementById('dropDownItems').value;
         $.getJSON("./zonelist.json", function (obj) {
             $.each(obj.Zones, function (key, value) {
                 if (value.ZoneName == dropDownZoneChoice) {
@@ -91,20 +96,35 @@
                     }
                 }
             });
+            matchingitems(zoneLevel)
         });
+    }
+    function matchingitems(zoneLevel) {
+        var dropDownItemsChoice = document.getElementById('dropDownItems').value;
         var matchingitems = [];
+        var strreq = []
+        var dexreq = []
+        var strreq = {};
         document.getElementById("itemlist").innerHTML = "";
-        $.getJSON("./itemcategory.json", function (obj) {
+        $.getJSON("./weapons.json", function (obj) {
             $.each(obj, function (key, value) {
                 if (key <= zoneLevel) {
                     $.each(value, function (key, value) {
-                        if ((key == dropDownItemsChoice)) {
-                            matchingitems.push(value);
+                        if (key == dropDownItemsChoice) {
+                            $.each(value, function (key, value) {
+                                matchingitems.push(value.name);
+                                strreq[value.name]=value.reqstr;
+                                dexreq[value.name]=value.reqdex;
+                            });
                         }
                     });
                 }
             });
+            console.log(strreq)
+            socketcalc(matchingitems, strreq, dexreq, zoneLevel)
         });
+    }
+    function socketcalc(matchingitems, strreq, dexreq, zoneLevel) {
         $.getJSON("./itemlist.json", function (obj) {
             if (zoneLevel < 26) {
                 zoneLevel = "25";
@@ -116,10 +136,9 @@
             matchingitems.forEach(function (entry) {
                 $.each(obj.Itemlist, function (key, value) {
                     if (value.Item == entry) {
-                        document.getElementById("itemlist").innerHTML += entry + " can currently drop. This can drop with maximum " + value[zoneLevel] + " sockets";
+                        document.getElementById("itemlist").innerHTML += entry + " can currently drop. This can drop with maximum " + value[zoneLevel] + " sockets. It needs "+strreq[value.Item]+" Strength and "+dexreq[value.Item]+" Dexterity to equip";
                         document.getElementById("itemlist").innerHTML += "\n";
                     }
-
                 });
             });
         });
