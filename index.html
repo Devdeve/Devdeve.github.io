@@ -10,7 +10,11 @@
                     $("#dropDownZone").append('<option value="' + value.ZoneName + '">' + value.ZoneName + '</option>');
                 });
             });
-
+            $.getJSON("./itemlist.json", function (obj) {
+                $.each(obj.Base, function (key, value) {
+                    $("#dropDownBase").append('<option value="' + value.item + '">' + value.item + '</option>');
+                });
+            });
         });
     </Script>
 </HEAD>
@@ -68,6 +72,7 @@
                         <option value="ashd">Paladin Shield</option>
                     </select>
                     <br>
+                    <br>
                     <button value="Submit" onclick="itemlistcalc()">Submit</button>
                     <br>
                     <div id="itemlist" style="white-space: pre-wrap"></div>
@@ -75,6 +80,34 @@
             </TD>
         </TR>
     </TABLE>
+    <div style="text-align: center;width:100%;">
+        <span>-----------------------------------------</span>
+    </div>
+    <DIV ALIGN="center">
+        <H1>Where to farm a specific base </H1>
+    </DIV>
+    <DIV style="text-align:center">
+        <P>Please enter your base</p>
+        <select name="drop_down" id="dropDownBase">
+            <option value="None" selected="Selected">Select base</option>
+        </select>
+        <P>How many sockets do you want</p>
+        <select name="drop_down" id="dropDownSockets">
+            <option value="None" selected="Selected">Select amount</option>
+            <option value="1" selected="Selected">1</option>
+            <option value="2" selected="Selected">2</option>
+            <option value="3" selected="Selected">3</option>
+            <option value="4" selected="Selected">4</option>
+            <option value="5" selected="Selected">5</option>
+            <option value="6" selected="Selected">6</option>
+        </select>
+    </DIV>
+    <DIV style="text-align:center">
+        <br>
+        <button value="Submit" onclick="socketcalculator()">Submit</button>
+        <br>
+        <div id="socketlist" style="white-space: pre-wrap"></div>
+    </DIV>
 </BODY>
 <script>
     function itemlistcalc() {
@@ -113,8 +146,8 @@
                         if (key == dropDownItemsChoice) {
                             $.each(value, function (key, value) {
                                 matchingitems.push(value.name);
-                                strreq[value.name]=value.reqstr;
-                                dexreq[value.name]=value.reqdex;
+                                strreq[value.name] = value.reqstr;
+                                dexreq[value.name] = value.reqdex;
                             });
                         }
                     });
@@ -136,13 +169,51 @@
             matchingitems.forEach(function (entry) {
                 $.each(obj.Itemlist, function (key, value) {
                     if (value.Item == entry) {
-                        document.getElementById("itemlist").innerHTML += entry + " can currently drop. This can drop with maximum " + value[zoneLevel] + " sockets. It needs "+strreq[value.Item]+" Strength and "+dexreq[value.Item]+" Dexterity to equip";
+                        document.getElementById("itemlist").innerHTML += entry + " can currently drop. This can drop with maximum " + value[zoneLevel] + " sockets. It needs " + strreq[value.Item] + " Strength and " + dexreq[value.Item] + " Dexterity to equip";
                         document.getElementById("itemlist").innerHTML += "\n";
                     }
                 });
             });
         });
     }
+    function socketcalculator() {
+        document.getElementById("socketlist").innerHTML = "empty";
+        var zoneLevel = 0
+        var socketChoice = document.getElementById('dropDownSockets').value;
+        var baseChoice = document.getElementById('dropDownBase').value;
+        var var25 = "25";
+        var var40 = "40";
+        var var41 = "41";
+        var matchingitemsSocket = [];
+        $.getJSON("./itemlist.json", function (obj) {
+            $.each(obj.Itemlist, function (key, value) {
+                if (value.Item == baseChoice) {
+                    if (value.var25 >= socketChoice) {
+                        matchingitemsSocket.Add[25];
+                    }
+                    if (value.var40 >= socketChoice) {
+                        matchingitemsSocket.Add[40];
+                    }
+                    if (value.var41 >= socketChoice) {
+                        matchingitemsSocket.Add[41];
+                    }
+                }
+            });
+        });
+        $.getJSON("./zonelist.json", function (obj) {
+            $.each(obj.Zones, function (key, value) {
+                if (matchingitemsSocket.Contains(value.Normal)) {
+                    document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Normal";
+                }
+                if (matchingitemsSocket.Contains(value.Nightmare)) {
+                    document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Nightmare";
+                }
+                if (matchingitemsSocket.Contains(value.Hell)) {
+                    document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Hell";
+                }
+                document.getElementById("itemlist").innerHTML += "\n";
+            });
+        });
+    }
 </script>
-
 </HTML>
