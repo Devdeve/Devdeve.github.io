@@ -12,7 +12,7 @@
             });
             $.getJSON("./itemlist.json", function (obj) {
                 $.each(obj.Base, function (key, value) {
-                    $("#dropDownBase").append('<option value="' + value.item + '">' + value.item + '</option>');
+                    $("#dropDownBase").append('<option value="' + value.Item + '">' + value.Item + '</option>');
                 });
             });
         });
