@@ -11,7 +11,7 @@
                 });
             });
             $.getJSON("./itemlist.json", function (obj) {
-                $.each(obj.Base, function (key, value) {
+                $.each(obj.Itemlist, function (key, value) {
                     $("#dropDownBase").append('<option value="' + value.Item + '">' + value.Item + '</option>');
                 });
             });
