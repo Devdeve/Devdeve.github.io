@@ -201,13 +201,13 @@
         });
         $.getJSON("./zonelist.json", function (obj) {
             $.each(obj.Zones, function (key, value) {
-                if (matchingitemsSocket.Contains(value.Normal)) {
+                if (matchingitemsSocket.includes(value.Normal)) {
                     document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Normal";
                 }
-                if (matchingitemsSocket.Contains(value.Nightmare)) {
+                if (matchingitemsSocket.includes(value.Nightmare)) {
                     document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Nightmare";
                 }
-                if (matchingitemsSocket.Contains(value.Hell)) {
+                if (matchingitemsSocket.includes(value.Hell)) {
                     document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Hell";
                 }
                 document.getElementById("itemlist").innerHTML += "\n";
