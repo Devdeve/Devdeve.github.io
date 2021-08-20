@@ -186,13 +186,13 @@
         $.getJSON("./itemlist.json", function (obj) {
             $.each(obj.Itemlist, function (key, value) {
                 if (value.Item == baseChoice) {
-                    if (value.var25 >= socketChoice) {
+                    if (value[25] >= socketChoice) {
                         matchingitemsSocket.Add[25];
                     }
-                    if (value.var40 >= socketChoice) {
+                    if (value[40] >= socketChoice) {
                         matchingitemsSocket.Add[40];
                     }
-                    if (value.var41 >= socketChoice) {
+                    if (value[41] >= socketChoice) {
                         matchingitemsSocket.Add[41];
                     }
                 }
