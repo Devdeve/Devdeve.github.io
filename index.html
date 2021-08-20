@@ -207,19 +207,16 @@
                 }
             });
         });
-        var duplicatevalue = "";
         $.getJSON("./zonelist.json", function (obj) {
             document.getElementById("socketlist").innerHTML = "";
             $.each(obj.Zones, function (key, value) {
                 var breakLoop = false;
                 matchingitemsSocket.forEach(function (entry) {
-                    var duplicatevalue = value.ZoneName
                     if (difficultySockets == "Normal") {
                         if (entry <= value.Normal && breakLoop == false) {
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Normal";
                             document.getElementById("socketlist").innerHTML += "\n";
                             breakLoop = true;
-                            console.log(entry);
                         }
                     }
                     if (difficultySockets == "Nightmare") {
@@ -227,7 +224,6 @@
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Nightmare";
                             document.getElementById("socketlist").innerHTML += "\n";
                             breakLoop = true;
-                            console.log(entry);
                         }
                     }
                     if (difficultySockets == "Hell") {
@@ -235,8 +231,6 @@
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Hell";
                             document.getElementById("socketlist").innerHTML += "\n";
                             breakLoop = true;
-                            console.log(entry + " | " + value.Hell);
-                            // console.log(value.Hell);
                         }
                     }
                 });
