@@ -86,6 +86,14 @@
     <DIV ALIGN="center">
         <H1>Where to farm a specific base </H1>
     </DIV>
+    <div style="text-align:center">
+        <P>Please enter your difficulty</p>
+        <select id="difficultySockets" style="align-content: center;">
+            <option id="Normal">Normal</option>
+            <option id="Nightmare">Nightmare</option>
+            <option id="Hell">Hell</option>
+        </select>
+    </div style="text-align:center">
     <DIV style="text-align:center">
         <P>Please enter your base</p>
         <select name="drop_down" id="dropDownBase">
@@ -179,6 +187,7 @@
         document.getElementById("socketlist").innerHTML = "empty";
         var socketChoice = document.getElementById('dropDownSockets').value;
         var baseChoice = document.getElementById('dropDownBase').value;
+        var difficultySockets = document.getElementById('difficultySockets').value;
         var var25 = "25";
         var var40 = "40";
         var var41 = "41";
@@ -199,22 +208,32 @@
             });
         });
         $.getJSON("./zonelist.json", function (obj) {
+            document.getElementById("socketlist").innerHTML = "";
             $.each(obj.Zones, function (key, value) {
-                if (matchingitemsSocket.includes(value.Normal)) {
-                    document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Normal";
-document.getElementById("socketlist").innerHTML += "\n";
-                }
-                if (matchingitemsSocket.includes(value.Nightmare)) {
-                    document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Nightmare";
-document.getElementById("socketlist").innerHTML += "\n";
-                }
-                if (matchingitemsSocket.includes(value.Hell)) {
-                    document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Hell";
-document.getElementById("socketlist").innerHTML += "\n";
-                }
-                
+                matchingitemsSocket.forEach(function (entry) {
+                    //difficultySockets
+                    if (difficultySockets == "Normal") {
+                        if (entry >= value.Normal) {
+                            document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Normal";
+                            document.getElementById("socketlist").innerHTML += "\n";
+                        }
+                    }
+                    if (difficultySockets == "Nightmare") {
+                        if (entry >= value.Nightmare) {
+                            document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Nightmare";
+                            document.getElementById("socketlist").innerHTML += "\n";
+                        }
+                    }
+                    if (difficultySockets == "Hell") {
+                        if (entry >= value.Hell) {
+                            document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Hell";
+                            document.getElementById("socketlist").innerHTML += "\n";
+                        }
+                    }
+                });
             });
         });
     }
 </script>
+
 </HTML>
