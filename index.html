@@ -231,7 +231,7 @@
                         }
                     }
                     if (difficultySockets == "Hell") {
-                        if (entry >= value.Hell && breakLoop == false) {
+                        if (entry <= value.Hell && breakLoop == false) {
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Hell";
                             document.getElementById("socketlist").innerHTML += "\n";
                             breakLoop = true;
