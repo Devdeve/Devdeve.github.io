@@ -212,22 +212,22 @@
             document.getElementById("socketlist").innerHTML = "";
             $.each(obj.Zones, function (key, value) {
                 matchingitemsSocket.forEach(function (entry) {
+                    var breakLoop = false;
                     var duplicatevalue = value.ZoneName
                     if (difficultySockets == "Normal") {
-                        if (entry <= value.Normal) {
+                        if (entry <= value.Normal && breakLoop == true) {
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Normal";
                             document.getElementById("socketlist").innerHTML += "\n";
-                            break;
                         }
                     }
                     if (difficultySockets == "Nightmare") {
-                        if (entry <= value.Nightmare) {
+                        if (entry <= value.Nightmare && breakLoop == true) {
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Nightmare";
                             document.getElementById("socketlist").innerHTML += "\n";
                         }
                     }
                     if (difficultySockets == "Hell") {
-                        if (entry >= value.Hell) {
+                        if (entry >= value.Hell && breakLoop == true) {
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Hell";
                             document.getElementById("socketlist").innerHTML += "\n";
                         }
