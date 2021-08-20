@@ -187,13 +187,13 @@
             $.each(obj.Itemlist, function (key, value) {
                 if (value.Item == baseChoice) {
                     if (value[25] >= socketChoice) {
-                        matchingitemsSocket.push["25"];
+                        matchingitemsSocket.push[25];
                     }
                     if (value[40] >= socketChoice) {
-                        matchingitemsSocket.push["40"];
+                        matchingitemsSocket.push[40];
                     }
                     if (value[41] >= socketChoice) {
-                        matchingitemsSocket.push["41"];
+                        matchingitemsSocket.push[41];
                     }
                 }
             });
@@ -202,14 +202,17 @@
             $.each(obj.Zones, function (key, value) {
                 if (matchingitemsSocket.includes(value.Normal)) {
                     document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Normal";
+document.getElementById("socketlist").innerHTML += "\n";
                 }
                 if (matchingitemsSocket.includes(value.Nightmare)) {
                     document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Nightmare";
+document.getElementById("socketlist").innerHTML += "\n";
                 }
                 if (matchingitemsSocket.includes(value.Hell)) {
                     document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Hell";
+document.getElementById("socketlist").innerHTML += "\n";
                 }
-                document.getElementById("socketlist").innerHTML += "\n";
+                
             });
         });
     }
