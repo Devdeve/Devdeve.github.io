@@ -211,23 +211,24 @@
         $.getJSON("./zonelist.json", function (obj) {
             document.getElementById("socketlist").innerHTML = "";
             $.each(obj.Zones, function (key, value) {
+                var breakLoop = false;
                 matchingitemsSocket.forEach(function (entry) {
-                    var breakLoop = false;
                     var duplicatevalue = value.ZoneName
                     if (difficultySockets == "Normal") {
-                        if (entry <= value.Normal && breakLoop == true) {
+                        if (entry <= value.Normal && breakLoop == false) {
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Normal";
                             document.getElementById("socketlist").innerHTML += "\n";
+                            breakLoop = true;
                         }
                     }
                     if (difficultySockets == "Nightmare") {
-                        if (entry <= value.Nightmare && breakLoop == true) {
+                        if (entry <= value.Nightmare && breakLoop == false) {
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Nightmare";
                             document.getElementById("socketlist").innerHTML += "\n";
                         }
                     }
                     if (difficultySockets == "Hell") {
-                        if (entry >= value.Hell && breakLoop == true) {
+                        if (entry >= value.Hell && breakLoop == false) {
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Hell";
                             document.getElementById("socketlist").innerHTML += "\n";
                         }
