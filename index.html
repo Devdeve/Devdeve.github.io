@@ -207,15 +207,17 @@
                 }
             });
         });
+        var duplicatevalue = "";
         $.getJSON("./zonelist.json", function (obj) {
             document.getElementById("socketlist").innerHTML = "";
             $.each(obj.Zones, function (key, value) {
                 matchingitemsSocket.forEach(function (entry) {
-                    //difficultySockets
+                    var duplicatevalue = value.ZoneName
                     if (difficultySockets == "Normal") {
                         if (entry <= value.Normal) {
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Normal";
                             document.getElementById("socketlist").innerHTML += "\n";
+                            break;
                         }
                     }
                     if (difficultySockets == "Nightmare") {
@@ -225,7 +227,7 @@
                         }
                     }
                     if (difficultySockets == "Hell") {
-                        if (entry <= value.Hell) {
+                        if (entry >= value.Hell) {
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Hell";
                             document.getElementById("socketlist").innerHTML += "\n";
                         }
