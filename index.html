@@ -227,6 +227,7 @@
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Nightmare";
                             document.getElementById("socketlist").innerHTML += "\n";
                             breakLoop = true;
+                            console.log(entry);
                         }
                     }
                     if (difficultySockets == "Hell") {
@@ -234,6 +235,8 @@
                             document.getElementById("socketlist").innerHTML += dropDownBase.value + " can currently drop in " + value.ZoneName + " in Hell";
                             document.getElementById("socketlist").innerHTML += "\n";
                             breakLoop = true;
+                            console.log(entry + " | " + value.Hell);
+                            // console.log(value.Hell);
                         }
                     }
                 });
