@@ -73,6 +73,12 @@
             "Hell": 83
         },
         {
+            "ZoneName": "Underground Passage Level 2 (Resurrected)",
+            "Normal": 4,
+            "Nightmare": 38,
+            "Hell": 85
+        },
+        {
             "ZoneName": "The Hole Level 2",
             "Normal": 5,
             "Nightmare": 39,
@@ -259,6 +265,12 @@
             "Hell": 74
         },
         {
+            "ZoneName": "Sewers Level 1(Act 2) (Resurrected)",
+            "Normal": 13,
+            "Nightmare": 43,
+            "Hell": 85
+        },
+        {
             "ZoneName": "Sewers Level 2(Act 2)",
             "Normal": 13,
             "Nightmare": 43,
@@ -301,6 +313,12 @@
             "Hell": 78
         },
         {
+            "ZoneName": "Stony Tomb Level 1 (Resurrected)",
+            "Normal": 12,
+            "Nightmare": 44,
+            "Hell": 85
+        },
+        {
             "ZoneName": "Halls of the Dead Level 1",
             "Normal": 12,
             "Nightmare": 44,
@@ -323,6 +341,12 @@
             "Normal": 12,
             "Nightmare": 44,
             "Hell": 79
+        },
+        {
+            "ZoneName": "Stony Tomb Level 2 (Resurrected)",
+            "Normal": 12,
+            "Nightmare": 44,
+            "Hell": 85
         },
         {
             "ZoneName": "Halls of the Dead Level 3",
@@ -433,6 +457,12 @@
             "Hell": 79
         },
         {
+            "ZoneName": "Spider Cave (Arachnid Lair) (Resurrected)",
+            "Normal": 21,
+            "Nightmare": 50,
+            "Hell": 85
+        },
+        {
             "ZoneName": "Spider Cavern",
             "Normal": 21,
             "Nightmare": 50,
@@ -445,10 +475,22 @@
             "Hell": 80
         },
         {
+            "ZoneName": "Swampy Pit Level 1 (Resurrected)",
+            "Normal": 21,
+            "Nightmare": 51,
+            "Hell": 85
+        },
+        {
             "ZoneName": "Swampy Pit Level 2",
             "Normal": 21,
             "Nightmare": 51,
             "Hell": 81
+        },
+        {
+            "ZoneName": "Swampy Pit Level 2 (Resurrected)",
+            "Normal": 21,
+            "Nightmare": 51,
+            "Hell": 85
         },
         {
             "ZoneName": "Flayer Dungeon Level 1",
@@ -467,6 +509,12 @@
             "Normal": 21,
             "Nightmare": 51,
             "Hell": 82
+        },
+        {
+            "ZoneName": "Swampy Pit Level 3 (Resurrected)",
+            "Normal": 21,
+            "Nightmare": 51,
+            "Hell": 85
         },
         {
             "ZoneName": "Flayer Dungeon Level 3",
@@ -493,16 +541,34 @@
             "Hell": 84
         },
         {
+            "ZoneName": "Ruined Temple (In Kurast Bazaar) (Resurrected)",
+            "Normal": 23,
+            "Nightmare": 53,
+            "Hell": 85
+        },
+        {
             "ZoneName": "Disused Fane (In Kurast Bazaar)",
             "Normal": 23,
             "Nightmare": 53,
             "Hell": 84
         },
         {
+            "ZoneName": "Disused Fane (In Kurast Bazaar) (Resurrected)",
+            "Normal": 23,
+            "Nightmare": 53,
+            "Hell": 85
+        },
+        {
             "ZoneName": "Forgotten Reliquary (In Upper Kurast)",
             "Normal": 23,
             "Nightmare": 53,
             "Hell": 84
+        },
+        {
+            "ZoneName": "Forgotten Reliquary (In Upper Kurast) (Resurrected)",
+            "Normal": 23,
+            "Nightmare": 53,
+            "Hell": 85
         },
         {
             "ZoneName": "Forgotten Temple (In Upper Kurast)",
@@ -613,6 +679,12 @@
             "Hell": 84
         },
         {
+            "ZoneName": "Echo Chamber (Drifter Cavern) (Resurrected)",
+            "Normal": 29,
+            "Nightmare": 61,
+            "Hell": 85
+        },
+        {
             "ZoneName": "Tundra Wastelands (Frozen Tundra)",
             "Normal": 27,
             "Nightmare": 60,
@@ -629,6 +701,12 @@
             "Normal": 29,
             "Nightmare": 62,
             "Hell": 83
+        },
+        {
+            "ZoneName": "Glacial Caves Level 2 (Icy Cellar) (Resurrected)",
+            "Normal": 29,
+            "Nightmare": 62,
+            "Hell": 85
         },
         {
             "ZoneName": "Rocky Summit (Arreat Summit)",
@@ -667,16 +745,34 @@
             "Hell": 81
         },
         {
+            "ZoneName": "Hell 1 (Abaddon) (Resurrected)",
+            "Normal": 39,
+            "Nightmare": 60,
+            "Hell": 85
+        },
+        {
             "ZoneName": "Hell 2 (Pit of Acheron)",
             "Normal": 39,
             "Nightmare": 61,
             "Hell": 82
         },
         {
+            "ZoneName": "Hell 2 (Pit of Acheron) (Resurrected)",
+            "Normal": 39,
+            "Nightmare": 61,
+            "Hell": 85
+        },
+        {
             "ZoneName": "Hell 3 (Infernal Pit)",
             "Normal": 39,
             "Nightmare": 62,
             "Hell": 83
+        },
+        {
+            "ZoneName": "Hell 3 (Infernal Pit) (Resurrected)",
+            "Normal": 39,
+            "Nightmare": 62,
+            "Hell": 85
         },
         {
             "ZoneName": "The Worldstone Keep Level 1",
