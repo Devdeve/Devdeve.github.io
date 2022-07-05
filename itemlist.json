@@ -4,31 +4,36 @@
             "Item": "Buckler",
             "25": 1,
             "40": 1,
-            "41": 1
+            "41": 1,
+            "QLvlReq": 1
         },
         {
             "Item": "Burnt Wand",
             "25": 1,
             "40": 1,
-            "41": 1
+            "41": 1,
+            "QLvlReq": 31
         },
         {
             "Item": "Dagger",
             "25": 1,
             "40": 1,
-            "41": 1
+            "41": 1,
+            "QLvlReq": 3
         },
         {
             "Item": "Defender",
             "25": 1,
             "40": 1,
-            "41": 1
+            "41": 1,
+            "QLvlReq": 34
         },
         {
             "Item": "Dirk",
             "25": 1,
             "40": 1,
-            "41": 1
+            "41": 1,
+            "QLvlReq": 9
         },
         {
             "Item": "Mithril Point",
@@ -40,1429 +45,1667 @@
             "Item": "Poignard",
             "25": 1,
             "40": 1,
-            "41": 1
+            "41": 1,
+            "QLvlReq": 31
         },
         {
             "Item": "Rondel",
             "25": 1,
             "40": 1,
-            "41": 1
+            "41": 1,
+            "QLvlReq": 36
         },
         {
             "Item": "Wand",
             "25": 1,
             "40": 1,
-            "41": 1
+            "41": 1,
+            "QLvlReq": 2
         },
         {
             "Item": "Yew Wand",
             "25": 1,
             "40": 1,
-            "41": 1
+            "41": 1,
+            "QLvlReq": 12
         },
         {
             "Item": "Circlet",
             "25": 1,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 24
         },
         {
             "Item": "Coronet",
             "25": 1,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 52
         },
         {
             "Item": "Diadem",
             "25": 1,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 85
         },
         {
             "Item": "Tiara",
             "25": 1,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 70
         },
         {
             "Item": "Armet",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 68
         },
         {
             "Item": "Ataghan",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 61
         },
         {
             "Item": "Barbed Shield",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 42
         },
         {
             "Item": "Basinet",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 45
         },
         {
             "Item": "Battle Cestus",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 73
         },
         {
             "Item": "Blade",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 23
         },
         {
             "Item": "Bloodlord Skull",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 85
         },
         {
             "Item": "Bone Helm",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 22
         },
         {
             "Item": "Bone Shield",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 19
         },
         {
             "Item": "Bone Wand",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 18
         },
         {
             "Item": "Cantor Trophy",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 49
         },
         {
             "Item": "Cap/hat",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 1
         },
         {
             "Item": "Casque",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 42
         },
         {
             "Item": "Cestus",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 15
         },
         {
             "Item": "Chain Mail",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 15
         },
         {
             "Item": "Club",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 1
         },
         {
             "Item": "Cudgel",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 30
         },
         {
             "Item": "Cutlass",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 43
         },
         {
             "Item": "Demon Head",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 24
         },
         {
             "Item": "Demonhide Armor",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 37
         },
         {
             "Item": "Elegant Blade",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 63
         },
         {
             "Item": "Falcata",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 56
         },
         {
             "Item": "Falchion",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 11
         },
         {
             "Item": "Fascia",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 36
         },
         {
             "Item": "Fetish Trophy",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 39
         },
         {
             "Item": "Field Plate",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 28
         },
         {
             "Item": "Flanged Mace",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 35
         },
         {
             "Item": "Full Helm",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 15
         },
         {
             "Item": "Gargoyle Head",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 20
         },
         {
             "Item": "Ghost Armor",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 34
         },
         {
             "Item": "Ghost Wand",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 65
         },
         {
             "Item": "Giant Conch",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 54
         },
         {
             "Item": "Gladius",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 30
         },
         {
             "Item": "Grave Wand",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 49
         },
         {
             "Item": "Grim Helm",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 50
         },
         {
             "Item": "Grim Shield",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 48
         },
         {
             "Item": "Grim Wand",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 26
         },
         {
             "Item": "Hand Axe",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 7
         },
         {
             "Item": "Hand Scythe",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 41
         },
         {
             "Item": "Hard Leather Armor",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 5
         },
         {
             "Item": "Hatchet",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 31
         },
         {
             "Item": "Hatchet Hands",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 12
         },
         {
             "Item": "Heater",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 58
         },
         {
             "Item": "Heirophant Trophy",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 54
         },
         {
             "Item": "Hellspawn Skull",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 67
         },
         {
             "Item": "Helm",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 11
         },
         {
             "Item": "Hydra Edge",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 69
         },
         {
             "Item": "Hydraskull",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 63
         },
         {
             "Item": "Jo Staff",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 30
         },
         {
             "Item": "Katar",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 1
         },
         {
             "Item": "Leather Armor",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 3
         },
         {
             "Item": "Legend Spike",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 85
         },
         {
             "Item": "Lich Wand",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 75
         },
         {
             "Item": "Luna",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 61
         },
         {
             "Item": "Mace",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 8
         },
         {
             "Item": "Mighty Scepter",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 62
         },
         {
             "Item": "Minion Skull",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 59
         },
         {
             "Item": "Mummified Trophy",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 33
         },
         {
             "Item": "Overseer Skull",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 66
         },
         {
             "Item": "Petrified Wand",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 38
         },
         {
             "Item": "Plate Mail",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 24
         },
         {
             "Item": "Polished Wand",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 55
         },
         {
             "Item": "Preserved Head",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 4
         },
         {
             "Item": "Quilted Armor",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 1
         },
         {
             "Item": "Reinforced Mace",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 63
         },
         {
             "Item": "Round Shield",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 37
         },
         {
             "Item": "Rune Scepter",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 31
         },
         {
             "Item": "Saber",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 8
         },
         {
             "Item": "Sallet",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 37
         },
         {
             "Item": "Scale Mail",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 13
         },
         {
             "Item": "Scepter",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 3
         },
         {
             "Item": "Scimitar",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 5
         },
         {
             "Item": "Serpentskin Armor",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 36
         },
         {
             "Item": "Sexton Trophy",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 45
         },
         {
             "Item": "Shako",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 58
         },
         {
             "Item": "Shamshir",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 35
         },
         {
             "Item": "Short Staff",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 1
         },
         {
             "Item": "Short Sword",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 1
         },
         {
             "Item": "Skull Cap",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 5
         },
         {
             "Item": "Small Shield",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 5
         },
         {
             "Item": "Spiked Club",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 4
         },
         {
             "Item": "Spiked Shield",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 11
         },
         {
             "Item": "Splint Mail",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 20
         },
         {
             "Item": "Stilleto",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 46
         },
         {
             "Item": "Studded Leather",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 8
         },
         {
             "Item": "Succubae Skull",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 81
         },
         {
             "Item": "Tomahawk",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 54
         },
         {
             "Item": "Tomb Wand",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 43
         },
         {
             "Item": "Trellised Armor",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 40
         },
         {
             "Item": "Truncheon",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 52
         },
         {
             "Item": "Tulwar",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 37
         },
         {
             "Item": "Unearthed Wand",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 86
         },
         {
             "Item": "Unraveller Head",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 16
         },
         {
             "Item": "Walking Stick",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 58
         },
         {
             "Item": "War Fist",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 68
         },
         {
             "Item": "War Hat",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 34
         },
         {
             "Item": "Wrist Blade",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 9
         },
         {
             "Item": "Wrist Spike",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 32
         },
         {
             "Item": "Zombie Head",
             "25": 2,
             "40": 2,
-            "41": 2
+            "41": 2,
+            "QLvlReq": 8
         },
         {
             "Item": "Bone Visage",
             "25": 2,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 84
         },
         {
             "Item": "Corona",
             "25": 2,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 85
         },
         {
             "Item": "Crown",
             "25": 2,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 29
         },
         {
             "Item": "Death Mask",
             "25": 2,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 48
         },
         {
             "Item": "Demonhead",
             "25": 2,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 74
         },
         {
             "Item": "Grand Crown",
             "25": 2,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 55
         },
         {
             "Item": "Great Helm",
             "25": 2,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 23
         },
         {
             "Item": "Mask",
             "25": 2,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 19
         },
         {
             "Item": "Spired Helm",
             "25": 2,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 79
         },
         {
             "Item": "Winged Helm",
             "25": 2,
             "40": 2,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 51
         },
         {
             "Item": "Alpha Helm",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 35
         },
         {
             "Item": "Antlers",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 16
         },
         {
             "Item": "Assault Helmet",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 20
         },
         {
             "Item": "Avenger Guard",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 24
         },
         {
             "Item": "Blade Talons",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 21
         },
         {
             "Item": "Blood Spirt",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 62
         },
         {
             "Item": "Carnage Helm",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 60
         },
         {
             "Item": "Cinquedeas",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 42
         },
         {
             "Item": "Claws",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 18
         },
         {
             "Item": "Conquerer Crown",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 80
         },
         {
             "Item": "Destroyer Helm",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 73
         },
         {
             "Item": "Dream Spirit",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 85
         },
         {
             "Item": "Earth Spirit",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 76
         },
         {
             "Item": "Falcon Mask",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 20
         },
         {
             "Item": "Fanged Helm",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 8
         },
         {
             "Item": "Fanged Knife",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 83
         },
         {
             "Item": "Feral Claws",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 78
         },
         {
             "Item": "Fury Visor",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 66
         },
         {
             "Item": "Greater Claws",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 45
         },
         {
             "Item": "Greater Talons",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 50
         },
         {
             "Item": "Griffon Headress",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 40
         },
         {
             "Item": "Guardian Crown",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 85
         },
         {
             "Item": "Hawk Helm",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 8
         },
         {
             "Item": "Horned Helm",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 16
         },
         {
             "Item": "Hunter's Guise",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 46
         },
         {
             "Item": "Jawbone Cap",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 4
         },
         {
             "Item": "Jawbone Visor",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 33
         },
         {
             "Item": "Kriss",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 17
         },
         {
             "Item": "Lion Helm",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 38
         },
         {
             "Item": "Quhab",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 28
         },
         {
             "Item": "Rage Mask",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 44
         },
         {
             "Item": "Runic Talons",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 81
         },
         {
             "Item": "Sacred Feathers",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 50
         },
         {
             "Item": "Savage Helmet",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 49
         },
         {
             "Item": "Scissors Katar",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 24
         },
         {
             "Item": "Scissors Quhab",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 54
         },
         {
             "Item": "Scissors Suwayyah",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 85
         },
         {
             "Item": "Sky Spirit",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 83
         },
         {
             "Item": "Slayer Guard",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 54
         },
         {
             "Item": "Spirit Mask",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 24
         },
         {
             "Item": "Sun Spirit",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 69
         },
         {
             "Item": "Suwayyah",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 59
         },
         {
             "Item": "Totemic Mask",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 55
         },
         {
             "Item": "Wolf Head",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 4
         },
         {
             "Item": "Wrist Sword",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 62
         },
         {
             "Item": "Clasped Orb",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 17
         },
         {
             "Item": "Cloudy Sphere",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 41
         },
         {
             "Item": "Crystalline Globe",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 37
         },
         {
             "Item": "Demon Heart",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 75
         },
         {
             "Item": "Dimensional Shard",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 85
         },
         {
             "Item": "Dragon Stone",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 24
         },
         {
             "Item": "Eagle Orb",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 1
         },
         {
             "Item": "Eldritch Orb",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 67
         },
         {
             "Item": "Glowing Orb",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 32
         },
         {
             "Item": "Heavenly Stone",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 59
         },
         {
             "Item": "Sacred Globe",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 8
         },
         {
             "Item": "Smoked Sphere",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 12
         },
         {
             "Item": "Sparkling Ball",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 46
         },
         {
             "Item": "Swirling Crystal",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 50
         },
         {
             "Item": "Vortex Orb",
             "25": 2,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 84
         },
         {
             "Item": "Ancient Shield",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 74
         },
         {
             "Item": "Ancient Sword",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 49
         },
         {
             "Item": "Arbalest",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 34
         },
         {
             "Item": "Barbed Club",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 32
         },
         {
             "Item": "Bardiche",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 5
         },
         {
             "Item": "Blade Barrier",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 23
         },
         {
             "Item": "Breast Plate",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 18
         },
         {
             "Item": "Cuirass",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 47
         },
         {
             "Item": "Devil Star",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 70
         },
         {
             "Item": "Dragon Shield",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 45
         },
         {
             "Item": "Edge Bow",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 30
         },
         {
             "Item": "Espadon",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 37
         },
         {
             "Item": "Gothic Shield",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 30
         },
         {
             "Item": "Grand Scepter",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 15
         },
         {
             "Item": "Holy Water Sprinkler",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 40
         },
         {
             "Item": "Hyperion",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 64
         },
         {
             "Item": "Hyperion Spear",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 58
         },
         {
             "Item": "Jagged Star",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 39
         },
         {
             "Item": "KhalimFlail",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 0
         },
         {
             "Item": "Kite Shield",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 15
         },
         {
             "Item": "Large Shield",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 11
         },
         {
             "Item": "Legend Sword",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 59
         },
         {
             "Item": "Light Crossbow",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 15
         },
         {
             "Item": "Light Plate",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 35
         },
         {
             "Item": "Linked Mail",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 42
         },
         {
             "Item": "Lochaber Axe",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 33
         },
         {
             "Item": "Long Staff",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 8
         },
         {
             "Item": "Mage Plate",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 60
         },
         {
             "Item": "Mesh Armor",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 45
         },
         {
             "Item": "Morning Star",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 13
         },
         {
             "Item": "Mythical Sword",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 85
         },
         {
             "Item": "Ogre Axe",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 60
         },
         {
             "Item": "Pavise",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 50
         },
         {
             "Item": "Pellet Bow",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 57
         },
         {
             "Item": "Quarterstaff",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 35
         },
         {
             "Item": "Ring Mail",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 11
         },
         {
             "Item": "Russet Armor",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 49
         },
         {
             "Item": "Scutum",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 42
         },
         {
             "Item": "Seraph Rod",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 76
         },
         {
             "Item": "Sharktooth Armor",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 55
         },
         {
             "Item": "Short Bow",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 1
         },
         {
             "Item": "Spear",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 5
         },
         {
             "Item": "Spider Bow",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 55
         },
         {
             "Item": "Stalagmite",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 66
         },
         {
             "Item": "SuperKhalimFlail",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 0
         },
         {
             "Item": "Templar Coat",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 52
         },
         {
             "Item": "Tigulated Mail",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 43
         },
         {
             "Item": "Tower Shield",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 22
         },
         {
             "Item": "Troll Nest",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 76
         },
         {
             "Item": "Two-Handed Sword",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 10
         },
         {
             "Item": "Tyrant Club",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 57
         },
         {
             "Item": "War Spear",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 33
         },
         {
             "Item": "War Sword",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 27
         },
         {
             "Item": "Wirt's Leg",
             "25": 3,
             "40": 3,
-            "41": 3
+            "41": 3,
+            "QLvlReq": 0
         },
         {
             "Item": "Aegis",
             "25": 3,
             "40": 3,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 79
         },
         {
             "Item": "Monarch",
             "25": 3,
             "40": 3,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 72
         },
         {
             "Item": "Ward",
             "25": 3,
             "40": 3,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 84
         },
         {
             "Item": "Aerin Shield",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 20
         },
         {
             "Item": "Akaran Rondache",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 40
         },
         {
             "Item": "Akaran Targe",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 35
         },
         {
             "Item": "Ancient Armor",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 40
         },
         {
             "Item": "Kurast Shield",
@@ -1474,1057 +1717,1233 @@
             "Item": "Archon Plate",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 84
         },
         {
             "Item": "Balrog Blade",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 71
         },
         {
             "Item": "Balrog Skin",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 76
         },
         {
             "Item": "Bastard Sword",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 24
         },
         {
             "Item": "Battle Hammer",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 48
         },
         {
             "Item": "Battle Sword",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 40
         },
         {
             "Item": "Bill",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 37
         },
         {
             "Item": "Blade Bow",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 60
         },
         {
             "Item": "Boneweave",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 62
         },
         {
             "Item": "Broad Sword",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 15
         },
         {
             "Item": "Champion Sword",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 77
         },
         {
             "Item": "Chaos Armor",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 61
         },
         {
             "Item": "Claymore",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 17
         },
         {
             "Item": "Colossus Voulge",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 64
         },
         {
             "Item": "Composite Bow",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 12
         },
         {
             "Item": "Conquest Sword",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 78
         },
         {
             "Item": "Crossbow",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 15
         },
         {
             "Item": "Crown Shield",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 24
         },
         {
             "Item": "Cryptic Sword",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 82
         },
         {
             "Item": "Dacian Falx",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 42
         },
         {
             "Item": "Diamond Mail",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 72
         },
         {
             "Item": "Double Bow",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 39
         },
         {
             "Item": "Dusk Shroud",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 65
         },
         {
             "Item": "Embossed Plate",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 58
         },
         {
             "Item": "Full Plate Mail",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 37
         },
         {
             "Item": "Fuscina",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 36
         },
         {
             "Item": "Giant Sword",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 21
         },
         {
             "Item": "Gorgon Crossbow",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 67
         },
         {
             "Item": "Gothic Plate",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 32
         },
         {
             "Item": "Gothic Sword",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 48
         },
         {
             "Item": "Great Bow",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 68
         },
         {
             "Item": "Great Hauberk",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 75
         },
         {
             "Item": "Guilded Shield",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 51
         },
         {
             "Item": "Hellforged Plate",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 78
         },
         {
             "Item": "Heraldic Shield",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 16
         },
         {
             "Item": "Highland Blade",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 66
         },
         {
             "Item": "Hunter's Bow",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 5
         },
         {
             "Item": "Kraken Shell",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 81
         },
         {
             "Item": "Lacquered Plate",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 82
         },
         {
             "Item": "Legendary Mallet",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 82
         },
         {
             "Item": "Long Sword",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 20
         },
         {
             "Item": "Loricated Mail",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 73
         },
         {
             "Item": "Ornate Armor",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 64
         },
         {
             "Item": "Protector Shield",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 46
         },
         {
             "Item": "Razor Bow",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 33
         },
         {
             "Item": "Rondache",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 8
         },
         {
             "Item": "Royal Shield",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 55
         },
         {
             "Item": "Rune Sword",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 44
         },
         {
             "Item": "Sacred Armor",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 85
         },
         {
             "Item": "Sacred Rondache",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 70
         },
         {
             "Item": "Sacred Targe",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 63
         },
         {
             "Item": "Scarab Husk",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 68
         },
         {
             "Item": "Shadow Plate",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 83
         },
         {
             "Item": "Siege Crossbow",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 40
         },
         {
             "Item": "Stygian Pike",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 66
         },
         {
             "Item": "Targe",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 4
         },
         {
             "Item": "Trident",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 9
         },
         {
             "Item": "Tusk Sword",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 45
         },
         {
             "Item": "Vortex Shield",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 85
         },
         {
             "Item": "Voulge",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 11
         },
         {
             "Item": "War Hammer",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 25
         },
         {
             "Item": "Wire Fleece",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 70
         },
         {
             "Item": "Wyrmhide",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 67
         },
         {
             "Item": "Zakarum Shield",
             "25": 3,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 82
         },
         {
             "Item": "Ashwood Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 39
         },
         {
             "Item": "Battle Scythe",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 40
         },
         {
             "Item": "Brandistock",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 16
         },
         {
             "Item": "Cedar Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 35
         },
         {
             "Item": "Chu-Ko-Nu",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 54
         },
         {
             "Item": "Colossal Sword",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 80
         },
         {
             "Item": "Cryptic Axe",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 79
         },
         {
             "Item": "Demon Crossbow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 84
         },
         {
             "Item": "Diamond Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 72
         },
         {
             "Item": "Flail",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 19
         },
         {
             "Item": "Flamberge",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 27
         },
         {
             "Item": "Hellforge Hammer",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 0
         },
         {
             "Item": "Knout",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 43
         },
         {
             "Item": "Long Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 8
         },
         {
             "Item": "Mancatcher",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 74
         },
         {
             "Item": "Matriarchal Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 53
         },
         {
             "Item": "Partizan",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 35
         },
         {
             "Item": "Poleaxe",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 21
         },
         {
             "Item": "Repeating Crossbow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 33
         },
         {
             "Item": "Rune Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 49
         },
         {
             "Item": "Scourge",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 76
         },
         {
             "Item": "Scythe",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 15
         },
         {
             "Item": "Shadow Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 63
         },
         {
             "Item": "Short Battle Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 18
         },
         {
             "Item": "Short Siege Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 43
         },
         {
             "Item": "Short War Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 27
         },
         {
             "Item": "Stag Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 18
         },
         {
             "Item": "Thresher",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 71
         },
         {
             "Item": "War Fork",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 41
         },
         {
             "Item": "Ward Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 80
         },
         {
             "Item": "Zweihander",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 49
         },
         {
             "Item": "Ceremonial Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 47
         },
         {
             "Item": "Grand Matron Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 78
         },
         {
             "Item": "Reflex Bow",
             "25": 3,
             "40": 4,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 27
         },
         {
             "Item": "Balista",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 47
         },
         {
             "Item": "Bec-de-Corbin",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 51
         },
         {
             "Item": "Ceremonial Pike",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 51
         },
         {
             "Item": "Ceremonial Spear",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 43
         },
         {
             "Item": "Colossus Blade",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 85
         },
         {
             "Item": "Colossus Crossbow",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 75
         },
         {
             "Item": "Crusader Bow",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 77
         },
         {
             "Item": "Crystal Sword",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 11
         },
         {
             "Item": "Dimensional Blade",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 37
         },
         {
             "Item": "Executioner Sword",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 54
         },
         {
             "Item": "Ghost Spear",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 83
         },
         {
             "Item": "Giant Thresher",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 85
         },
         {
             "Item": "Gothic Bow",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 52
         },
         {
             "Item": "Great Maul",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 32
         },
         {
             "Item": "Great Poleaxe",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 84
         },
         {
             "Item": "Great Sword",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 33
         },
         {
             "Item": "Grim Scythe",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 55
         },
         {
             "Item": "Halberd",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 29
         },
         {
             "Item": "Heavy Crossbow",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 24
         },
         {
             "Item": "Hydra Bow",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 85
         },
         {
             "Item": "Lance",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 47
         },
         {
             "Item": "Long Battle Bow",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 23
         },
         {
             "Item": "Long Siege Bow",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 46
         },
         {
             "Item": "Long War Bow",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 31
         },
         {
             "Item": "Maiden Pike",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 27
         },
         {
             "Item": "Maiden Spear",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 18
         },
         {
             "Item": "Martel de Fer",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 53
         },
         {
             "Item": "Matriarchal Pike",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 81
         },
         {
             "Item": "Matriarchal Spear",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 61
         },
         {
             "Item": "Maul",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 21
         },
         {
             "Item": "Ogre Maul",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 69
         },
         {
             "Item": "Phase Blade",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 73
         },
         {
             "Item": "Pike",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 24
         },
         {
             "Item": "Spetum",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 20
         },
         {
             "Item": "Thunder Maul",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 85
         },
         {
             "Item": "War Club",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 45
         },
         {
             "Item": "War Pike",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 85
         },
         {
             "Item": "War Scythe",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 34
         },
         {
             "Item": "Yari",
             "25": 3,
             "40": 4,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 44
         },
         {
             "Item": "Caduceus",
             "25": 3,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 85
         },
         {
             "Item": "Divine Scepter",
             "25": 3,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 45
         },
         {
             "Item": "War Scepter",
             "25": 3,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 21
         },
         {
             "Item": "Axe",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 7
         },
         {
             "Item": "Battle Staff",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 17
         },
         {
             "Item": "Cedar Staff",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 38
         },
         {
             "Item": "Cleaver",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 34
         },
         {
             "Item": "Elder Staff",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 74
         },
         {
             "Item": "Feral Axe",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 57
         },
         {
             "Item": "Gnarled Staff",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 12
         },
         {
             "Item": "Gothic Staff",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 42
         },
         {
             "Item": "Large Axe",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 6
         },
         {
             "Item": "Military Axe",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 34
         },
         {
             "Item": "Shillelah",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 83
         },
         {
             "Item": "Small Crescent",
             "25": 4,
             "40": 4,
-            "41": 4
+            "41": 4,
+            "QLvlReq": 61
         },
         {
             "Item": "Battle Axe",
             "25": 4,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 17
         },
         {
             "Item": "Bearded Axe",
             "25": 4,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 38
         },
         {
             "Item": "Broad Axe",
             "25": 4,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 12
         },
         {
             "Item": "Decapitator",
             "25": 4,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 73
         },
         {
             "Item": "Double Axe",
             "25": 4,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 13
         },
         {
             "Item": "Ettin Axe",
             "25": 4,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 70
         },
         {
             "Item": "Silver Edged Axe",
             "25": 4,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 65
         },
         {
             "Item": "Tabar",
             "25": 4,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 42
         },
         {
             "Item": "Twin Axe",
             "25": 4,
             "40": 5,
-            "41": 5
+            "41": 5,
+            "QLvlReq": 39
         },
         {
             "Item": "Ancient Axe",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 51
         },
         {
             "Item": "Berserker Axe",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 85
         },
         {
             "Item": "Champion Axe",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 82
         },
         {
             "Item": "Crowbill",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 43
         },
         {
             "Item": "Giant Axe",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 27
         },
         {
             "Item": "Glorious Axe",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 85
         },
         {
             "Item": "Gothic Axe",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 46
         },
         {
             "Item": "Great Axe",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 23
         },
         {
             "Item": "Military Pick",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 19
         },
         {
             "Item": "Naga",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 48
         },
         {
             "Item": "War Axe",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 25
         },
         {
             "Item": "War Spike",
             "25": 4,
             "40": 5,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 79
         },
         {
             "Item": "Archon Staff",
             "25": 5,
             "40": 6,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 85
         },
         {
             "Item": "Rune Staff",
             "25": 5,
             "40": 6,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 47
         },
         {
             "Item": "War Staff",
             "25": 5,
             "40": 6,
-            "41": 6
+            "41": 6,
+            "QLvlReq": 24
         }
     ]
 }
