@@ -195,9 +195,9 @@
         var matchingitemsSocket = [];
         $.getJSON("./itemlist.json", function (obj) {
             $.each(obj.Itemlist, function (key, value) {
-                console.log(value);
+                // console.log(value);
                 if (value.Item == baseChoice) {
-                    console.log(value["QLvlReq"]);
+                    // console.log(value["QLvlReq"]);
                     if (QualLvlReq == 0) {
                         QualLvlReq = value["QLvlReq"];
                     }
